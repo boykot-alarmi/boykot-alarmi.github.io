@@ -1,0 +1,1437 @@
+{
+    "EspressoLab": {
+        "firma": "EspressoLab",
+        "url_list": [
+            "espressolab.com"
+        ],
+        "trigger_list": [
+            "espressolab",
+            "eslab"
+        ],
+        "unvan_ve_ust_kurulus": "Eslab Kahve Gıda Sanayi ve Ticaret A.Ş, nan",
+        "boykot_sebebi": "Firma sahibi Kocadağ ailesinin AKP ile yakınlığı ve ticari başarısını bu yakınlığa borçlu olması.",
+        "kaynak": "https://www.birgun.net/haber/espressolab-kimin-espressolab-neden-boykot-ediliyor-610148"
+    },
+    "D&R": {
+        "firma": "D&R",
+        "url_list": [
+            "dr.com.tr"
+        ],
+        "trigger_list": [
+            "d&r"
+        ],
+        "unvan_ve_ust_kurulus": "Turkuvaz Müzik Kitap Mağazacılık Pazarlama A.Ş, Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "İdefix": {
+        "firma": "İdefix",
+        "url_list": [
+            "idefix.com"
+        ],
+        "trigger_list": [
+            "idefix"
+        ],
+        "unvan_ve_ust_kurulus": "Turkuvaz Müzik Kitap Mağazacılık Pazarlama A.Ş, Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "Turkuvaz Kitap": {
+        "firma": "Turkuvaz Kitap",
+        "url_list": [
+            "turkuvazkitap.com.tr"
+        ],
+        "trigger_list": [
+            "turkuvaz_kitap",
+            "turkuvaz kitap"
+        ],
+        "unvan_ve_ust_kurulus": "Turkuvaz Müzik Kitap Mağazacılık Pazarlama A.Ş, Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "Sabah Gazetesi": {
+        "firma": "Sabah Gazetesi",
+        "url_list": [
+            "sabah.com.tr"
+        ],
+        "trigger_list": [
+            "sabah gazetesi",
+            "sabah gazete",
+            "sabah-gazete"
+        ],
+        "unvan_ve_ust_kurulus": "Turkuvaz Haberleşme Ve Yayıncılık A.Ş, Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "Takvim Gazetesi": {
+        "firma": "Takvim Gazetesi",
+        "url_list": [
+            "takvim.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Turkuvaz Haberleşme Ve Yayıncılık A.Ş, Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "Yeni Asır Gazetesi": {
+        "firma": "Yeni Asır Gazetesi",
+        "url_list": [
+            "yeniasir.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Turkuvaz Haberleşme Ve Yayıncılık A.Ş, Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "Fotomaç Gazetesi": {
+        "firma": "Fotomaç Gazetesi",
+        "url_list": [
+            "fotomac.com.tr"
+        ],
+        "trigger_list": [
+            "fotomaç",
+            "fotomac"
+        ],
+        "unvan_ve_ust_kurulus": "Turkuvaz Haberleşme Ve Yayıncılık A.Ş, Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "Daily Sabah": {
+        "firma": "Daily Sabah",
+        "url_list": [
+            "dailysabah.com/"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Turkuvaz Haberleşme Ve Yayıncılık A.Ş, Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "atv": {
+        "firma": "atv",
+        "url_list": [
+            "atv.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Turkuvaz Aktif Televizyon Prodüksiyon A.Ş, Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "ahaber": {
+        "firma": "ahaber",
+        "url_list": [
+            "ahaber.com.tr"
+        ],
+        "trigger_list": [
+            "ahaber",
+            "a haber",
+            "a-haber"
+        ],
+        "unvan_ve_ust_kurulus": "Turkuvaz Medya Yayın Hizmetleri A.Ş. , Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "a2": {
+        "firma": "a2",
+        "url_list": [
+            "atv.com.tr/a2tv"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Turkuvaz Yeni Asır Televizyon Prodüksiyon A.Ş, Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "aSpor": {
+        "firma": "aSpor",
+        "url_list": [
+            "aspor.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Turkuvaz Haberleşme Ve Yayıncılık A.Ş, Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "aNews": {
+        "firma": "aNews",
+        "url_list": [
+            "anews.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Turkuvaz Yayın Hizmetleri ve Ticaret A.Ş., Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "Minika": {
+        "firma": "Minika",
+        "url_list": [
+            "minika.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Turkuvaz Tv Hizmetleri A.Ş., Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "MinikaGo": {
+        "firma": "MinikaGo",
+        "url_list": [
+            "minikago.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Turkuvaz Tv Hizmetleri A.Ş., Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "MinikaÇocuk": {
+        "firma": "MinikaÇocuk",
+        "url_list": [
+            "minikacocuk.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Turkuvaz Tv Hizmetleri A.Ş., Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "VAV TV": {
+        "firma": "VAV TV",
+        "url_list": [
+            "vavtv.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Turkuvaz İzmir Televizyon ve Yayıncılık Prodüksiyon ve Radyoculuk A.Ş., Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "Vogue Türkiye": {
+        "firma": "Vogue Türkiye",
+        "url_list": [
+            "vogue.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Turkuvaz Haberleşme Ve Yayıncılık A.Ş, Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "GQ Türkiye": {
+        "firma": "GQ Türkiye",
+        "url_list": [
+            "gq.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Turkuvaz Haberleşme Ve Yayıncılık A.Ş, Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "Harper’s Bazaar Türkiye": {
+        "firma": "Harper’s Bazaar Türkiye",
+        "url_list": [
+            "harpersbazaar.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Turkuvaz Haberleşme Ve Yayıncılık A.Ş, Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "Esquire Türkiye ": {
+        "firma": "Esquire Türkiye ",
+        "url_list": [
+            "esquire.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Turkuvaz Haberleşme Ve Yayıncılık A.Ş, Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "Lacivert": {
+        "firma": "Lacivert",
+        "url_list": [
+            "lacivertdergi.com"
+        ],
+        "trigger_list": [
+            "lacivert dergi",
+            "lacivert-dergi"
+        ],
+        "unvan_ve_ust_kurulus": "Turkuvaz Haberleşme Ve Yayıncılık A.Ş, Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "Otohaber": {
+        "firma": "Otohaber",
+        "url_list": [
+            "otohaber.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Turkuvaz Haberleşme Ve Yayıncılık A.Ş, Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "Sofra": {
+        "firma": "Sofra",
+        "url_list": [
+            "sofra.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Turkuvaz Haberleşme Ve Yayıncılık A.Ş, Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "Inbusiness": {
+        "firma": "Inbusiness",
+        "url_list": [
+            "inbusiness.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Turkuvaz Haberleşme Ve Yayıncılık A.Ş, Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "SabitFikir": {
+        "firma": "SabitFikir",
+        "url_list": [
+            "sabitfikir.com"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Turkuvaz Haberleşme ve Yayıncılık A.Ş., Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "724 Dinle": {
+        "firma": "724 Dinle",
+        "url_list": [
+            "724dinle.com"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Turkuvaz Haberleşme ve Yayıncılık A.Ş., Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "KARGOMsende": {
+        "firma": "KARGOMsende",
+        "url_list": [
+            "esube.kargomsende.com"
+        ],
+        "trigger_list": [
+            "kargomsende"
+        ],
+        "unvan_ve_ust_kurulus": "Turkuvaz Dağıtım Pazarlama A.Ş, Turkuvaz Medya Grubu",
+        "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
+        "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
+    },
+    "Milliyet Gazetesi": {
+        "firma": "Milliyet Gazetesi",
+        "url_list": [
+            "milliyet.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Milliyet Gazetecilik ve Yayıncılık A.Ş., Demirören Holding",
+        "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704027"
+    },
+    "Vatan Gazetesi": {
+        "firma": "Vatan Gazetesi",
+        "url_list": [
+            "gazetevatan.com"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Vatan Gazetecilik A.Ş , Demirören Holding",
+        "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704028"
+    },
+    "Fanatik Gazetesi": {
+        "firma": "Fanatik Gazetesi",
+        "url_list": [
+            "fanatik.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Demirören Yayıncılık ve Gazetecilik A.Ş., Demirören Holding",
+        "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704029"
+    },
+    "Hürriyet Gazetesi": {
+        "firma": "Hürriyet Gazetesi",
+        "url_list": [
+            "hurriyet.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Hürriyet Gazetecilik ve Matbaacılık A.Ş., Demirören Holding",
+        "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704030"
+    },
+    "Hürriyet Daily": {
+        "firma": "Hürriyet Daily",
+        "url_list": [
+            "hurriyetdailynews.com"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Hürriyet Gazetecilik ve Matbaacılık A.Ş., Demirören Holding",
+        "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704031"
+    },
+    "Posta Gazetesi": {
+        "firma": "Posta Gazetesi",
+        "url_list": [
+            "posta.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Demirören Yayıncılık ve Gazetecilik A.Ş., Demirören Holding",
+        "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704032"
+    },
+    "CNN Türk": {
+        "firma": "CNN Türk",
+        "url_list": [
+            "cnnturk.com"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "MES TELEVİZYON ve RADYO Yayıncılık A.Ş., Demirören Holding",
+        "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704033"
+    },
+    "Dream Türk": {
+        "firma": "Dream Türk",
+        "url_list": [
+            "dreamturk.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Cemal Televizyon Yayıncılık Yapımcılık San.ve Tic. A.Ş., Demirören Holding",
+        "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704034"
+    },
+    "Kanal D": {
+        "firma": "Kanal D",
+        "url_list": [
+            "kanald.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "DEMİRÖREN TV RADYO YAYINCILIK YAPIMCILIK A.Ş., Demirören Holding",
+        "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704035"
+    },
+    "teve2": {
+        "firma": "teve2",
+        "url_list": [
+            "teve2.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Mina Televizyon Yayıncılık A.Ş., Demirören Holding",
+        "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704036"
+    },
+    "Dream TV": {
+        "firma": "Dream TV",
+        "url_list": [
+            "dreamtv.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Garnet Televizyon ve Radyo Yay. A.Ş., Demirören Holding",
+        "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704037"
+    },
+    "D-Smart": {
+        "firma": "D-Smart",
+        "url_list": [
+            "dsmart.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Demirören İnternet ve İletişim Hizmetleri Ticaret A.Ş., Demirören Holding",
+        "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704038"
+    },
+    "D-Smart Go": {
+        "firma": "D-Smart Go",
+        "url_list": [
+            "dsmartgo.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Demirören İnternet ve İletişim Hizmetleri Ticaret A.Ş., Demirören Holding",
+        "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704039"
+    },
+    "İddaa": {
+        "firma": "İddaa",
+        "url_list": [
+            "iddaa.com"
+        ],
+        "trigger_list": [
+            "iddaa"
+        ],
+        "unvan_ve_ust_kurulus": "ŞANS DİJİTAL VE İNTERAKTİF HİZMETLER TEKNOLOJİ YATIRIM ANONİM ŞİRKETİ, Demirören Holding",
+        "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704040"
+    },
+    "Misli.com": {
+        "firma": "Misli.com",
+        "url_list": [
+            "misli.com"
+        ],
+        "trigger_list": [
+            "misli.com",
+            "misli com",
+            "misli .com",
+            "misli-com"
+        ],
+        "unvan_ve_ust_kurulus": "Misli Elektronik Şans Oyunları ve Yayıncılık A.Ş, Demirören Holding",
+        "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704041"
+    },
+    "Milli Piyango": {
+        "firma": "Milli Piyango",
+        "url_list": [
+            "millipiyangoonline.com"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Sisal Şans İnteraktif Hizmetler ve Şans Oyunları Yatırım A.Ş., Demirören Holding ve Sisal S.p.A.",
+        "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704042"
+    },
+    "Kemer Country Club": {
+        "firma": "Kemer Country Club",
+        "url_list": [
+            "kemercountry.com"
+        ],
+        "trigger_list": [
+            "kemer-country-club",
+            "kemer_golf_country_club"
+        ],
+        "unvan_ve_ust_kurulus": "Kemer Yapı ve Turizm A.Ş., Demirören Holding",
+        "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704043"
+    },
+    "Kilim Mobilya": {
+        "firma": "Kilim Mobilya",
+        "url_list": [
+            "kilimmobilya.com.tr"
+        ],
+        "trigger_list": [
+            "kilim mobilya",
+            "kilim-mobilya"
+        ],
+        "unvan_ve_ust_kurulus": "Kilim Mobilya A.Ş., Demirören Holding",
+        "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704043"
+    },
+    "FLO": {
+        "firma": "FLO",
+        "url_list": [
+            "flo.com.tr"
+        ],
+        "trigger_list": [
+            "flo ayakkabı",
+            "flo-ayakkabi"
+        ],
+        "unvan_ve_ust_kurulus": "Flo Mağazacılık ve Pazarlama A.Ş., Ziylan Grup",
+        "boykot_sebebi": "BİM’in firmada hissesi mevcut.",
+        "kaynak": "https://kurumsal.flo.com.tr/bilgi-toplumu-hizmetleri"
+    },
+    "Instreet": {
+        "firma": "Instreet",
+        "url_list": [
+            "instreet.com.tr"
+        ],
+        "trigger_list": [
+            "instreet"
+        ],
+        "unvan_ve_ust_kurulus": "Flo Mağazacılık ve Pazarlama A.Ş., Ziylan Grup",
+        "boykot_sebebi": "BİM’in firmada hissesi mevcut.",
+        "kaynak": "https://kurumsal.flo.com.tr/bilgi-toplumu-hizmetleri"
+    },
+    "Lumberjack": {
+        "firma": "Lumberjack",
+        "url_list": [
+            "lumberjack.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Flo Mağazacılık ve Pazarlama A.Ş., Ziylan Grup",
+        "boykot_sebebi": "BİM’in firmada hissesi mevcut.",
+        "kaynak": "https://kurumsal.flo.com.tr/bilgi-toplumu-hizmetleri"
+    },
+    "Kinetix": {
+        "firma": "Kinetix",
+        "url_list": [
+            "kinetix.com.tr"
+        ],
+        "trigger_list": [
+            "kinetix"
+        ],
+        "unvan_ve_ust_kurulus": "Flo Mağazacılık ve Pazarlama A.Ş., Ziylan Grup",
+        "boykot_sebebi": "BİM’in firmada hissesi mevcut.",
+        "kaynak": "https://kurumsal.flo.com.tr/bilgi-toplumu-hizmetleri"
+    },
+    "Polaris": {
+        "firma": "Polaris",
+        "url_list": [
+            "instagram.com/polarisayakkabi/"
+        ],
+        "trigger_list": [
+            "polaris ayakkabı",
+            "polaris-ayakkabi"
+        ],
+        "unvan_ve_ust_kurulus": "Flo Mağazacılık ve Pazarlama A.Ş., Ziylan Grup",
+        "boykot_sebebi": "BİM’in firmada hissesi mevcut.",
+        "kaynak": "https://kurumsal.flo.com.tr/bilgi-toplumu-hizmetleri"
+    },
+    "Dockers": {
+        "firma": "Dockers",
+        "url_list": [
+            "dockers.com.tr"
+        ],
+        "trigger_list": [
+            "dockers by gerli",
+            "dockers-by-gerli"
+        ],
+        "unvan_ve_ust_kurulus": "Flo Mağazacılık ve Pazarlama A.Ş., Ziylan Grup",
+        "boykot_sebebi": "BİM’in firmada hissesi mevcut.",
+        "kaynak": "https://kurumsal.flo.com.tr/bilgi-toplumu-hizmetleri"
+    },
+    "Reebok Türkiye": {
+        "firma": "Reebok Türkiye",
+        "url_list": [
+            "reebok.com.tr"
+        ],
+        "trigger_list": [
+            "reebok"
+        ],
+        "unvan_ve_ust_kurulus": "Flo Mağazacılık ve Pazarlama A.Ş., Ziylan Grup",
+        "boykot_sebebi": "BİM’in Reebok’ın Türkiye distribütörü FLO’da hissesi mevcut.",
+        "kaynak": "https://kurumsal.flo.com.tr/bilgi-toplumu-hizmetleri"
+    },
+    "Butigo": {
+        "firma": "Butigo",
+        "url_list": [
+            "butigo.com.tr"
+        ],
+        "trigger_list": [
+            "butigo"
+        ],
+        "unvan_ve_ust_kurulus": "Flo Mağazacılık ve Pazarlama A.Ş., Ziylan Grup",
+        "boykot_sebebi": "BİM’in firmada hissesi mevcut.",
+        "kaynak": "https://kurumsal.flo.com.tr/bilgi-toplumu-hizmetleri"
+    },
+    "Nine West": {
+        "firma": "Nine West",
+        "url_list": [
+            "ninewest.com.tr"
+        ],
+        "trigger_list": [
+            "nine-west"
+        ],
+        "unvan_ve_ust_kurulus": "Flo Mağazacılık ve Pazarlama A.Ş., Ziylan Grup",
+        "boykot_sebebi": "BİM’in firmada hissesi mevcut.",
+        "kaynak": "https://kurumsal.flo.com.tr/bilgi-toplumu-hizmetleri"
+    },
+    "Yörsan": {
+        "firma": "Yörsan",
+        "url_list": [
+            "yorsan.com.tr"
+        ],
+        "trigger_list": [
+            "yorsan-sut"
+        ],
+        "unvan_ve_ust_kurulus": "YÖRSAN SÜT VE SÜT ÜRÜNLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ, Matlı Holding",
+        "boykot_sebebi": "Firma sahibi, AKP MKYK üyesi ve milletvekili Önder Matlı.",
+        "kaynak": "https://tr.wikipedia.org/wiki/%C3%96nder_Matl%C4%B1"
+    },
+    "Keskinoğlu": {
+        "firma": "Keskinoğlu",
+        "url_list": [
+            "keskinoglu.com.tr"
+        ],
+        "trigger_list": [
+            "keskinoglu"
+        ],
+        "unvan_ve_ust_kurulus": "KESKİNOĞLU TAV. VE DAM. İŞL. SAN. TİC. A.Ş., Matlı Holding",
+        "boykot_sebebi": "Firma sahibi, AKP MKYK üyesi ve milletvekili Önder Matlı.",
+        "kaynak": "https://tr.wikipedia.org/wiki/%C3%96nder_Matl%C4%B1"
+    },
+    "Ets Tur": {
+        "firma": "Ets Tur",
+        "url_list": [
+            "etstur.com"
+        ],
+        "trigger_list": [
+            "etstur",
+            "ets-tur"
+        ],
+        "unvan_ve_ust_kurulus": "Ets Ersoy Turistik Servisleri Anonim Şirketi, nan",
+        "boykot_sebebi": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy’a ait.",
+        "kaynak": "https://tr.wikipedia.org/wiki/Mehmet_Nuri_Ersoy"
+    },
+    "Ucuzabilet": {
+        "firma": "Ucuzabilet",
+        "url_list": [
+            "ucuzabilet.com"
+        ],
+        "trigger_list": [
+            "ucuzabilet"
+        ],
+        "unvan_ve_ust_kurulus": "Ets Ersoy Turistik Servisleri Anonim Şirketi, nan",
+        "boykot_sebebi": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy’a ait.",
+        "kaynak": "https://tr.wikipedia.org/wiki/Mehmet_Nuri_Ersoy"
+    },
+    "Maxx Royal Resorts": {
+        "firma": "Maxx Royal Resorts",
+        "url_list": [
+            "maxxroyal.com"
+        ],
+        "trigger_list": [
+            "maxx royal",
+            "maxx-royal"
+        ],
+        "unvan_ve_ust_kurulus": "VOYAG TURİZM OTELCİLİK İŞLETMESİ VE İNŞAAT SANAYİ TİCARET ANONİM ŞİRKETİ, nan",
+        "boykot_sebebi": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy’a ait.",
+        "kaynak": "https://tr.wikipedia.org/wiki/Mehmet_Nuri_Ersoy"
+    },
+    "Voyage Hotels": {
+        "firma": "Voyage Hotels",
+        "url_list": [
+            "voyagehotel.com"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "VOYAG TURİZM OTELCİLİK İŞLETMESİ VE İNŞAAT SANAYİ TİCARET ANONİM ŞİRKETİ, nan",
+        "boykot_sebebi": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy’a ait.",
+        "kaynak": "https://tr.wikipedia.org/wiki/Mehmet_Nuri_Ersoy"
+    },
+    "NTV": {
+        "firma": "NTV",
+        "url_list": [
+            "ntv.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "NTV Radyo ve Televizyon Yayıncılığı A.Ş., Doğuş Holding",
+        "boykot_sebebi": "Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://onedio.com/haber/ozgur-ozel-in-tv-kanallarini-elestirdigi-anlarda-ntv-nin-canli-yayini-kesmesi-dikkat-cekti-1281455"
+    },
+    "Star TV": {
+        "firma": "Star TV",
+        "url_list": [
+            "startv.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "STARTV MEDYA HİZMETLERİ A.Ş., Doğuş Holding",
+        "boykot_sebebi": "Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://onedio.com/haber/ozgur-ozel-in-tv-kanallarini-elestirdigi-anlarda-ntv-nin-canli-yayini-kesmesi-dikkat-cekti-1281455"
+    },
+    "Kral Müzik": {
+        "firma": "Kral Müzik",
+        "url_list": [
+            "kralmuzik.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Kral Platform İşletmeciliği A.Ş., Doğuş Holding",
+        "boykot_sebebi": "Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://onedio.com/haber/ozgur-ozel-in-tv-kanallarini-elestirdigi-anlarda-ntv-nin-canli-yayini-kesmesi-dikkat-cekti-1281455"
+    },
+    "Puhu TV": {
+        "firma": "Puhu TV",
+        "url_list": [
+            "puhutv.com"
+        ],
+        "trigger_list": [
+            "puhu",
+            "puhutv",
+            "puhu-tv"
+        ],
+        "unvan_ve_ust_kurulus": "PUHUTV YAYINCILIK A.Ş, Doğuş Holding",
+        "boykot_sebebi": "Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://onedio.com/haber/ozgur-ozel-in-tv-kanallarini-elestirdigi-anlarda-ntv-nin-canli-yayini-kesmesi-dikkat-cekti-1281455"
+    },
+    "Doğuş Otomotiv": {
+        "firma": "Doğuş Otomotiv",
+        "url_list": [
+            "dogusotomotiv.com.tr",
+            "dogusoto.com.tr"
+        ],
+        "trigger_list": [
+            "doğuş oto",
+            "doğuş otomotiv",
+            "dogus-oto",
+            "dogus-otomotiv"
+        ],
+        "unvan_ve_ust_kurulus": "Doğuş Otomotiv Servis ve Ticaret A.Ş, Doğuş Holding",
+        "boykot_sebebi": "Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://onedio.com/haber/ozgur-ozel-in-tv-kanallarini-elestirdigi-anlarda-ntv-nin-canli-yayini-kesmesi-dikkat-cekti-1281455"
+    },
+    "Volkswagen Türkiye": {
+        "firma": "Volkswagen Türkiye",
+        "url_list": [
+            "vw.com.tr"
+        ],
+        "trigger_list": [
+            "vw",
+            "volkswagen"
+        ],
+        "unvan_ve_ust_kurulus": "Doğuş Otomotiv Servis ve Ticaret A.Ş, Doğuş Holding",
+        "boykot_sebebi": "Türkiye distribütörü Doğuş Otomotiv, protesto ve boykotları kendi yayın kuruluşlarında yayınlamıyor. Özel’in boykot listesinde.",
+        "kaynak": "https://onedio.com/haber/ozgur-ozel-in-tv-kanallarini-elestirdigi-anlarda-ntv-nin-canli-yayini-kesmesi-dikkat-cekti-1281455"
+    },
+    "Audi Türkiye": {
+        "firma": "Audi Türkiye",
+        "url_list": [
+            "audi.com.tr"
+        ],
+        "trigger_list": [
+            "audi",
+            "audi türkiye"
+        ],
+        "unvan_ve_ust_kurulus": "Doğuş Otomotiv Servis ve Ticaret A.Ş, Doğuş Holding",
+        "boykot_sebebi": "Türkiye distribütörü Doğuş Otomotiv, protesto ve boykotları kendi yayın kuruluşlarında yayınlamıyor. Özel’in boykot listesinde.",
+        "kaynak": "https://onedio.com/haber/ozgur-ozel-in-tv-kanallarini-elestirdigi-anlarda-ntv-nin-canli-yayini-kesmesi-dikkat-cekti-1281455"
+    },
+    "SEAT Türkiye": {
+        "firma": "SEAT Türkiye",
+        "url_list": [
+            "seat.com.tr"
+        ],
+        "trigger_list": [
+            "seat"
+        ],
+        "unvan_ve_ust_kurulus": "Doğuş Otomotiv Servis ve Ticaret A.Ş, Doğuş Holding",
+        "boykot_sebebi": "Türkiye distribütörü Doğuş Otomotiv, protesto ve boykotları kendi yayın kuruluşlarında yayınlamıyor. Özel’in boykot listesinde.",
+        "kaynak": "https://onedio.com/haber/ozgur-ozel-in-tv-kanallarini-elestirdigi-anlarda-ntv-nin-canli-yayini-kesmesi-dikkat-cekti-1281455"
+    },
+    "Skoda Türkiye": {
+        "firma": "Skoda Türkiye",
+        "url_list": [
+            "skoda.com.tr"
+        ],
+        "trigger_list": [
+            "skoda"
+        ],
+        "unvan_ve_ust_kurulus": "Yüce Auto Motorlu Araçlar Ticaret A.Ş. , Doğuş Holding",
+        "boykot_sebebi": "Türkiye distribütörü Yücel Oto’nun sahibi Doğuş Otomotiv, protesto ve boykotları kendi yayın kuruluşlarında yayınlamıyor. Özel’in boykot listesinde.",
+        "kaynak": "https://onedio.com/haber/ozgur-ozel-in-tv-kanallarini-elestirdigi-anlarda-ntv-nin-canli-yayini-kesmesi-dikkat-cekti-1281455"
+    },
+    "ebebek": {
+        "firma": "ebebek",
+        "url_list": [
+            "e-bebek.com"
+        ],
+        "trigger_list": [
+            "ebebek"
+        ],
+        "unvan_ve_ust_kurulus": "Ebebek Mağazacılık A.Ş, nan",
+        "boykot_sebebi": "Firma hisselerinin çoğunluğu AKP’li Topbaş ailesine ait.",
+        "kaynak": "https://www.kap.org.tr/tr/Bildirim/1194547"
+    },
+    "Saray Muhallebicisi": {
+        "firma": "Saray Muhallebicisi",
+        "url_list": [
+            "online.saraymuhallebicisi.com"
+        ],
+        "trigger_list": [
+            "saray-muhallebicisi"
+        ],
+        "unvan_ve_ust_kurulus": "Teşvikiye Saray Gıda San. ve Tic.A.Ş., nan",
+        "boykot_sebebi": "Firma AKP’li Topbaş ailesine ait.",
+        "kaynak": "https://online.saraymuhallebicisi.com/hakkimizda"
+    },
+    "Evidea": {
+        "firma": "Evidea",
+        "url_list": [
+            "evidea.com"
+        ],
+        "trigger_list": [
+            "evidea"
+        ],
+        "unvan_ve_ust_kurulus": "Evidea Mağazacılık A.Ş., nan",
+        "boykot_sebebi": "Firma hisselerinin çoğunluğu AKP’li Topbaş ailesine ait.",
+        "kaynak": "https://webrazzi.com/2019/01/07/evideanin-cogunluk-hisselerini-topbas-ailesi-aldi/"
+    },
+    "Vestel": {
+        "firma": "Vestel",
+        "url_list": [
+            "vestel.com.tr"
+        ],
+        "trigger_list": [
+            "vestel"
+        ],
+        "unvan_ve_ust_kurulus": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş., Zorlu Holding",
+        "boykot_sebebi": "Yandaş firma.",
+        "kaynak": "https://haber.sol.org.tr/emek-sermaye/bir-palazlanma-hikayesi-zorlu-holding-nereden-nereye-249292"
+    },
+    "Regal": {
+        "firma": "Regal",
+        "url_list": [
+            "regal-tr.com"
+        ],
+        "trigger_list": [
+            "regal"
+        ],
+        "unvan_ve_ust_kurulus": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş., Zorlu Holding",
+        "boykot_sebebi": "Yandaş firma.",
+        "kaynak": "https://haber.sol.org.tr/emek-sermaye/bir-palazlanma-hikayesi-zorlu-holding-nereden-nereye-249292"
+    },
+    "Taç": {
+        "firma": "Taç",
+        "url_list": [
+            "tac.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Zorluteks Tekstil Tic. ve San. A.Ş, Zorlu Holding",
+        "boykot_sebebi": "Yandaş firma.",
+        "kaynak": "https://haber.sol.org.tr/emek-sermaye/bir-palazlanma-hikayesi-zorlu-holding-nereden-nereye-249292"
+    },
+    "Linens": {
+        "firma": "Linens",
+        "url_list": [
+            "linens.com.tr"
+        ],
+        "trigger_list": [
+            "linens"
+        ],
+        "unvan_ve_ust_kurulus": "Zorluteks Tekstil Tic. ve San. A.Ş, Zorlu Holding",
+        "boykot_sebebi": "Yandaş firma.",
+        "kaynak": "https://haber.sol.org.tr/emek-sermaye/bir-palazlanma-hikayesi-zorlu-holding-nereden-nereye-249292"
+    },
+    "İstanbul Bilgi Üniversitesi": {
+        "firma": "İstanbul Bilgi Üniversitesi",
+        "url_list": [
+            "bilgi.edu.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Bilgi Eğitim ve Kültür Vakfı, Can Holding",
+        "boykot_sebebi": "Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.haberhurriyeti.com/haber/24376377/ozelin-boykot-cagrisi-karsilik-buldu-ogrenciler-dev-markanin-subesini-muhurledi"
+    },
+    "AWOX": {
+        "firma": "AWOX",
+        "url_list": [
+            "awox.com.tr"
+        ],
+        "trigger_list": [
+            "awox"
+        ],
+        "unvan_ve_ust_kurulus": "SEIKON DAYANIKLI TÜKETİM MALLARI PAZARLAMA A.Ş., Can Holding",
+        "boykot_sebebi": "Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.haberhurriyeti.com/haber/24376377/ozelin-boykot-cagrisi-karsilik-buldu-ogrenciler-dev-markanin-subesini-muhurledi"
+    },
+    "Tokai Çakmak": {
+        "firma": "Tokai Çakmak",
+        "url_list": [
+            "sebatcakmak.com"
+        ],
+        "trigger_list": [
+            "tokai"
+        ],
+        "unvan_ve_ust_kurulus": "Sebat Çakmak Sınai ve Tüketim Malları San. ve Tic. A.Ş., Can Holding",
+        "boykot_sebebi": "Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.haberhurriyeti.com/haber/24376377/ozelin-boykot-cagrisi-karsilik-buldu-ogrenciler-dev-markanin-subesini-muhurledi"
+    },
+    "Mediza Hospital": {
+        "firma": "Mediza Hospital",
+        "url_list": [
+            "medizahospital.com"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "nan, Can Holding",
+        "boykot_sebebi": "Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.haberhurriyeti.com/haber/24376377/ozelin-boykot-cagrisi-karsilik-buldu-ogrenciler-dev-markanin-subesini-muhurledi"
+    },
+    "İTÜ ETA Vakfı Doğa Koleji": {
+        "firma": "İTÜ ETA Vakfı Doğa Koleji",
+        "url_list": [
+            "dogakoleji.k12.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "İTÜ ETA Vakfı, Can Holding",
+        "boykot_sebebi": "Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.haberhurriyeti.com/haber/24376377/ozelin-boykot-cagrisi-karsilik-buldu-ogrenciler-dev-markanin-subesini-muhurledi"
+    },
+    "Enerji Petrol": {
+        "firma": "Enerji Petrol",
+        "url_list": [
+            "enerjipetrol.com"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "ENERJİ PETROL DENİZCİLİK TİCARET VE SANAYİ ANONİM ŞİRKETİ, Can Holding",
+        "boykot_sebebi": "Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://www.haberhurriyeti.com/haber/24376377/ozelin-boykot-cagrisi-karsilik-buldu-ogrenciler-dev-markanin-subesini-muhurledi"
+    },
+    "Habertürk": {
+        "firma": "Habertürk",
+        "url_list": [
+            "haberturk.com"
+        ],
+        "trigger_list": [
+            "habertürk",
+            "haberturk"
+        ],
+        "unvan_ve_ust_kurulus": "Ciner Medya TV Hizmetleri Anonim Şirketi , Can Holding",
+        "boykot_sebebi": "Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://gazeteoksijen.com/ekonomi/rekabet-kurumu-onayladi-ciner-yayin-holding-resmen-can-grubuna-devredildi-237280"
+    },
+    "Show TV": {
+        "firma": "Show TV",
+        "url_list": [
+            "showtv.com.tr"
+        ],
+        "trigger_list": [
+            "show tv",
+            "show-tv",
+            "showtv"
+        ],
+        "unvan_ve_ust_kurulus": "Show Televizyon Yayıncılık A.Ş., Can Holding",
+        "boykot_sebebi": "Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://gazeteoksijen.com/ekonomi/rekabet-kurumu-onayladi-ciner-yayin-holding-resmen-can-grubuna-devredildi-237280"
+    },
+    "HT Spor": {
+        "firma": "HT Spor",
+        "url_list": [
+            "htspor.com"
+        ],
+        "trigger_list": [
+            "ht spor",
+            "ht-spor",
+            "htspor"
+        ],
+        "unvan_ve_ust_kurulus": "Habertürk Gazetecilik A.Ş., Can Holding",
+        "boykot_sebebi": "Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://gazeteoksijen.com/ekonomi/rekabet-kurumu-onayladi-ciner-yayin-holding-resmen-can-grubuna-devredildi-237280"
+    },
+    "Bloomberg HT": {
+        "firma": "Bloomberg HT",
+        "url_list": [
+            "bloomberght.com"
+        ],
+        "trigger_list": [
+            "bloomberght",
+            "bloomberg ht",
+            "bloomberg-ht"
+        ],
+        "unvan_ve_ust_kurulus": "C Görsel Yayınlar A.Ş., Can Holding",
+        "boykot_sebebi": "Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
+        "kaynak": "https://gazeteoksijen.com/ekonomi/rekabet-kurumu-onayladi-ciner-yayin-holding-resmen-can-grubuna-devredildi-237280"
+    },
+    "Fakir Ev Aletleri": {
+        "firma": "Fakir Ev Aletleri",
+        "url_list": [
+            "fakir.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Fakir Elektrikli Ev Aletleri Dış Tic. A.Ş., Saruhan Holding",
+        "boykot_sebebi": "Firma sahibi Erdoğan’ın kardeşinin dünürü.",
+        "kaynak": "https://www.cumhuriyet.com.tr/turkiye/erdogan-ailesinin-dunurlerine-imar-kiyagi-verimli-tarim-arazisine-2216757"
+    },
+    "Delonghi Türkiye Distribütörlüğü": {
+        "firma": "Delonghi Türkiye Distribütörlüğü",
+        "url_list": [
+            "shop.delonghi.com.tr"
+        ],
+        "trigger_list": [
+            "delonghi"
+        ],
+        "unvan_ve_ust_kurulus": "Fakir Elektrikli Ev Aletleri Dış Tic. A.Ş., Saruhan Holding",
+        "boykot_sebebi": "Firma sahibi Erdoğan’ın kardeşinin dünürü.",
+        "kaynak": "https://www.cumhuriyet.com.tr/turkiye/erdogan-ailesinin-dunurlerine-imar-kiyagi-verimli-tarim-arazisine-2216757"
+    },
+    "Kaave": {
+        "firma": "Kaave",
+        "url_list": [
+            "kaave.com.tr"
+        ],
+        "trigger_list": [
+            "kaave"
+        ],
+        "unvan_ve_ust_kurulus": "Kaave Gıda Yatırım Ticaret A.Ş., Saruhan Holding",
+        "boykot_sebebi": "Firma sahibi Erdoğan’ın kardeşinin dünürü.",
+        "kaynak": "https://www.cumhuriyet.com.tr/turkiye/erdogan-ailesinin-dunurlerine-imar-kiyagi-verimli-tarim-arazisine-2216757"
+    },
+    "S Filo": {
+        "firma": "S Filo",
+        "url_list": [
+            "s-filo.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "S FİLO Kiralama Hizmetleri A.Ş., Saruhan Holding",
+        "boykot_sebebi": "Firma sahibi Erdoğan’ın kardeşinin dünürü.",
+        "kaynak": "https://www.cumhuriyet.com.tr/turkiye/erdogan-ailesinin-dunurlerine-imar-kiyagi-verimli-tarim-arazisine-2216757"
+    },
+    "Çitlekçi": {
+        "firma": "Çitlekçi",
+        "url_list": [
+            "citlekci.com.tr"
+        ],
+        "trigger_list": [
+            "çitlekçi",
+            "citlekci"
+        ],
+        "unvan_ve_ust_kurulus": "Çitlekçi Mağazacılık Gıda A.Ş., Tunçlar Yatırım Holding ",
+        "boykot_sebebi": "Bakanların karşı boykot ziyaretlerinin uğrak noktası.",
+        "kaynak": "https://x.com/ajans_muhbir/status/1907449392732180770"
+    },
+    "Başdaş Market": {
+        "firma": "Başdaş Market",
+        "url_list": [
+            "basdasmarket.com"
+        ],
+        "trigger_list": [
+            "başdaş",
+            "basdas"
+        ],
+        "unvan_ve_ust_kurulus": "BAŞDAŞ MARKETÇİLİK GIDA İNŞ.TUR.EGT.HAYV.SAN TİC. LTD. ŞTİ. , nan",
+        "boykot_sebebi": "Ailenin üyelerinden Mehmet Sait Başdaş AKP İzmir Konak İlçe Başkanı.",
+        "kaynak": "https://x.com/SAITBASDAS"
+    },
+    "Kopernik Kitap": {
+        "firma": "Kopernik Kitap",
+        "url_list": [
+            "kopernikkitap.com.tr",
+            "m5dergi.com"
+        ],
+        "trigger_list": [
+            "kopernik-kitap",
+            "kopernik kitap",
+            "kopernik-yayinlari",
+            "kopernik yayınları",
+            "dolmabahçe-basin-yayin",
+            "dolmabahçe basın yayın",
+            "m5dergi",
+            "m5-dergi",
+            "m5 dergi"
+        ],
+        "unvan_ve_ust_kurulus": "Dolmabahçe Basın Yayın A.Ş., Dolmabahçe Medya Grubu",
+        "boykot_sebebi": "Grubun sahibi Abdülkadir Özkan. Kendisi boykotçulara “vatan haini” tweet’ini atan adam.",
+        "kaynak": "https://x.com/akadir137/status/1906072378683105419 "
+    },
+    "DBL Entertainment": {
+        "firma": "DBL Entertainment",
+        "url_list": [
+            "dbltr.com"
+        ],
+        "trigger_list": [
+            "dolmabahçe A.Ş",
+            "dbl-entertainment",
+            "dbl entertainment"
+        ],
+        "unvan_ve_ust_kurulus": "Dolmabahçe A.Ş., Dolmabahçe Medya Grubu",
+        "boykot_sebebi": "Grubun sahibi Abdülkadir Özkan. Kendisi boykotçulara “vatan haini” tweet’ini atan adam.",
+        "kaynak": "https://x.com/akadir137/status/1906072378683105419 "
+    },
+    "Ünal Peynircilik": {
+        "firma": "Ünal Peynircilik",
+        "url_list": [
+            "unalpeynircilik.com.tr/tr/"
+        ],
+        "trigger_list": [
+            "unal-peynir",
+            "unal-klasik-inek-beyaz-peynir"
+        ],
+        "unvan_ve_ust_kurulus": "Ünal Peynircilik İth.İhr.Tic.Ltd.Şti. , nan",
+        "boykot_sebebi": "Firma sahibi Adnan Sungur AKP Tekirdağ teşkilatında görev almış AKP’li biri.",
+        "kaynak": "https://www.malkarahaber.com.tr/haber/unal-peynircilik-yonetim-kurulu-baskani-adnan-sungurdan-tbmm-baskan-adayi-secilen-mustafa-sentopa-tebrik-mesaji-6858"
+    },
+    "LC Waikiki": {
+        "firma": "LC Waikiki",
+        "url_list": [
+            "lcw.com"
+        ],
+        "trigger_list": [
+            "lc waikiki",
+            "lc-waikiki"
+        ],
+        "unvan_ve_ust_kurulus": "LC WAİKİKİ MAĞAZACILIK HİZMETLERİ TİCARET ANONİM ŞİRKETİ, Taha Holding",
+        "boykot_sebebi": "Firmanın CEO’su Mustafa Küçük, eski AKP’li Malatya Doğanşehir Belediye Başkanı Vahap Küçük’ün oğlu.",
+        "kaynak": "https://www.aa.com.tr/tr/turkiye/dogansehir-belediye-baskani-vahap-kucuk-vefat-etti/1882048"
+    },
+    "Yayla": {
+        "firma": "Yayla",
+        "url_list": [
+            "yaylabakliyat.com"
+        ],
+        "trigger_list": [
+            "yayla",
+            "yayla bakliyat",
+            "yayla-bakliyat"
+        ],
+        "unvan_ve_ust_kurulus": "YAYLA AGRO GIDA SANAYİ VE TİCARET A.Ş., nan",
+        "boykot_sebebi": "Firma sahibi MÜSİAD üyesi Hasan Gümüş, AKP ile yakın ilişki içinde. ",
+        "kaynak": "https://safranbolu.meb.gov.tr/www/ak-parti-ilce-baskanligindan-sayin-gumuse-ziyaret/icerik/982"
+    },
+    "Ülker": {
+        "firma": "Ülker",
+        "url_list": [
+            "ulker.com.tr"
+        ],
+        "trigger_list": [
+            "ülker",
+            "ulker",
+            "halley",
+            "dido",
+            "canpare",
+            "ikram",
+            "çokokrem",
+            "cokokrem",
+            "dido",
+            "caramio",
+            "albeni",
+            "biskrem",
+            "hanımeller",
+            "hanimeller",
+            "laviva",
+            "rondo",
+            "saklikoy",
+            "saklıköy"
+        ],
+        "unvan_ve_ust_kurulus": "ÜLKER BİSKÜVİ SANAYİ A.Ş., Yıldız Holding",
+        "boykot_sebebi": "Firma Özgür Özel’in boykot listesindeydi fakat sonradan çıkarıldı. ",
+        "kaynak": "https://t24.com.tr/haber/ozel-genclerin-talebi-demisti-chp-nin-boykot-listesinde-ulker-yok,1228309"
+    },
+    "Şok Market": {
+        "firma": "Şok Market",
+        "url_list": [
+            "sokmarket.com.tr"
+        ],
+        "trigger_list": [
+            "şok market",
+            "sok-market",
+            "ceptesok"
+        ],
+        "unvan_ve_ust_kurulus": "ŞOK MARKETLER TİCARET A.Ş., Yıldız Holding",
+        "boykot_sebebi": "Firmanın sahibi Ülker, Özgür Özel’in boykot listesindeydi fakat sonradan çıkarıldı. ",
+        "kaynak": "https://t24.com.tr/haber/ozel-genclerin-talebi-demisti-chp-nin-boykot-listesinde-ulker-yok,1228309"
+    },
+    "Seç Market": {
+        "firma": "Seç Market",
+        "url_list": [
+            "secmarket.com.tr"
+        ],
+        "trigger_list": [
+            "seç market",
+            "sec-market"
+        ],
+        "unvan_ve_ust_kurulus": "Seç Marketçilik A.Ş, Yıldız Holding",
+        "boykot_sebebi": "Firmanın sahibi Ülker, Özgür Özel’in boykot listesindeydi fakat sonradan çıkarıldı. ",
+        "kaynak": "https://t24.com.tr/haber/ozel-genclerin-talebi-demisti-chp-nin-boykot-listesinde-ulker-yok,1228309"
+    },
+    "Godiva": {
+        "firma": "Godiva",
+        "url_list": [
+            "godiva.com.tr"
+        ],
+        "trigger_list": [
+            "godiva",
+            "godiva chocolatier",
+            "godiva-chocolatier"
+        ],
+        "unvan_ve_ust_kurulus": "nan, Yıldız Holding",
+        "boykot_sebebi": "Firmanın sahibi Ülker, Özgür Özel’in boykot listesindeydi fakat sonradan çıkarıldı. ",
+        "kaynak": "https://t24.com.tr/haber/ozel-genclerin-talebi-demisti-chp-nin-boykot-listesinde-ulker-yok,1228309"
+    },
+    "McVities": {
+        "firma": "McVities",
+        "url_list": [
+            "mcvities.co.uk"
+        ],
+        "trigger_list": [
+            "mcvities",
+            "mcvitie’s"
+        ],
+        "unvan_ve_ust_kurulus": "Ülker Bisküvi Sanayi A.Ş., Yıldız Holding",
+        "boykot_sebebi": "Firmanın sahibi Ülker, Özgür Özel’in boykot listesindeydi fakat sonradan çıkarıldı. ",
+        "kaynak": "https://t24.com.tr/haber/ozel-genclerin-talebi-demisti-chp-nin-boykot-listesinde-ulker-yok,1228309"
+    },
+    "SuperFresh": {
+        "firma": "SuperFresh",
+        "url_list": [
+            "superfresh.com.tr"
+        ],
+        "trigger_list": [
+            "superfresh"
+        ],
+        "unvan_ve_ust_kurulus": "Kerevitaş Gıda San. Tic. A.Ş., Yıldız Holding",
+        "boykot_sebebi": "Firmanın sahibi Ülker, Özgür Özel’in boykot listesindeydi fakat sonradan çıkarıldı.",
+        "kaynak": "https://t24.com.tr/haber/ozel-genclerin-talebi-demisti-chp-nin-boykot-listesinde-ulker-yok,1228309"
+    },
+    "Burcu Gıda": {
+        "firma": "Burcu Gıda",
+        "url_list": [
+            "burcu.com.tr"
+        ],
+        "trigger_list": [
+            "Burcu-domates",
+            "burcu domates salçası",
+            "burcu-gida",
+            "burcu gıda",
+            "burcu salça",
+            "burcu salca"
+        ],
+        "unvan_ve_ust_kurulus": "BURCU GIDA KONSERVECİLİK VE SALÇA SAN.A.Ş. , nan",
+        "boykot_sebebi": "Firma sahibi Cemil Bahadır, AKP üyesi olarak Balıkesir Burhaniye Belediye Meclisi'nde görev yapmış, ayrıca belediye başkan yardımcılığı görevini de üstlenmiştir. ",
+        "kaynak": "https://www.milliyet.com.tr/yerel-haberler/balikesir/burhaniyede-cemil-bahadir-baskan-yardimcisi-oldu-11602271"
+    },
+    "Yeni Şafak": {
+        "firma": "Yeni Şafak",
+        "url_list": [
+            "yenisafak.com"
+        ],
+        "trigger_list": [
+            "yenisafak",
+            "yeni-safak",
+            "yeni şafak"
+        ],
+        "unvan_ve_ust_kurulus": "Yeni Şafak Gazetecilik A.Ş., Albayrak Medya Grubu",
+        "boykot_sebebi": "Sahibi Albayrak Medya Grubu AKP’nin yakın çevresinden. Gazetenin boykotlara yönelik tutumu ise böyle.",
+        "kaynak": "https://www.yenisafak.com/video-galeri/gundem/chp-hangi-markalari-neden-boykot-ediyor-4688325"
+    },
+    "TVNET": {
+        "firma": "TVNET",
+        "url_list": [
+            "tvnet.com.tr"
+        ],
+        "trigger_list": [
+            "tvnet"
+        ],
+        "unvan_ve_ust_kurulus": "NET YAYINCILIK SAN. VE TİC.A.Ş., Albayrak Medya Grubu",
+        "boykot_sebebi": "Sahibi Albayrak Medya Grubu AKP’nin yakın çevresinden.",
+        "kaynak": "https://www.diken.com.tr/chpnin-boykot-listesi-guncellendi/"
+    },
+    "GZT": {
+        "firma": "GZT",
+        "url_list": [
+            "gzt.com",
+            "gzttv.tr"
+        ],
+        "trigger_list": [
+            "gzt",
+            "gzttv"
+        ],
+        "unvan_ve_ust_kurulus": "NET YAYINCILIK SAN. VE TİC.A.Ş., Albayrak Medya Grubu",
+        "boykot_sebebi": "Sahibi Albayrak Medya Grubu AKP’nin yakın çevresinden.",
+        "kaynak": "https://www.diken.com.tr/chpnin-boykot-listesi-guncellendi/"
+    },
+    "Derin Tarih Dergisi": {
+        "firma": "Derin Tarih Dergisi",
+        "url_list": [
+            "derintarih.com",
+            "ketebe.com"
+        ],
+        "trigger_list": [
+            "derintarih",
+            "derin tarih"
+        ],
+        "unvan_ve_ust_kurulus": "Ketebe Kitap ve Dergi Yayıncılığı A.Ş. , Albayrak Medya Grubu",
+        "boykot_sebebi": "Sahibi Albayrak Medya Grubu AKP’nin yakın çevresinden.",
+        "kaynak": "https://www.diken.com.tr/chpnin-boykot-listesi-guncellendi/"
+    },
+    "COOKSHOP": {
+        "firma": "COOKSHOP",
+        "url_list": [
+            "cookshop.com.tr"
+        ],
+        "trigger_list": [
+            "cookshop"
+        ],
+        "unvan_ve_ust_kurulus": "EFK İnşaat Turizm ve San A.Ş., Kazancı Holding",
+        "boykot_sebebi": "Firma yandaş holdinglerden Kazancı Holding’e ait.",
+        "kaynak": "https://www.evrensel.net/haber/544046/yavuzyilmaz-akp-kolin-ve-kazanci-holdinge-940-milyon-lira-tesvik-verdi"
+    },
+    "Bor Şeker": {
+        "firma": "Bor Şeker",
+        "url_list": [
+            "borseker.com"
+        ],
+        "trigger_list": [
+            "borseker",
+            "bor şeker",
+            "bor-seker"
+        ],
+        "unvan_ve_ust_kurulus": "Bor Şeker A.Ş., nan",
+        "boykot_sebebi": "Firma peşkeş çekilmişe benziyor.",
+        "kaynak": "https://www.birgun.net/haber/bor-seker-fabrikasi-akp-li-disli-nin-akrabasina-devredildi-231756"
+    },
+    "Sleepy": {
+        "firma": "Sleepy",
+        "url_list": [
+            "market.sleepy.com.tr",
+            "sleepy.com.tr"
+        ],
+        "trigger_list": [
+            "sleepy"
+        ],
+        "unvan_ve_ust_kurulus": "Eruslu Sağlık Ürünleri Sanayi ve Ticaret A.Ş., Eruslu Holding",
+        "boykot_sebebi": "Firma sahibi Eruslu ailesinden Ökkeş Eruslu, uzun bir süre AKP Gaziantep İl Başkanıydı.",
+        "kaynak": "https://www.birgun.net/haber/yandas-eruslu-ailesinin-usulsuzluk-dosyasi-kabarik-613019"
+    },
+    "MADO": {
+        "firma": "MADO",
+        "url_list": [
+            "mado.com.tr"
+        ],
+        "trigger_list": [
+            "mado"
+        ],
+        "unvan_ve_ust_kurulus": "Yaşar Dondurma ve Gıda Maddeleri A.Ş., nan",
+        "boykot_sebebi": "Kıdemli boykot firması.",
+        "kaynak": "https://t24.com.tr/haber/gezi-direnisinde-en-hangi-marka-itibar-kaybetti-hangisi-kazandi,233518"
+    },
+    "İpekyol": {
+        "firma": "İpekyol",
+        "url_list": [
+            "ipekyol.com.tr"
+        ],
+        "trigger_list": [
+            "ipekyol"
+        ],
+        "unvan_ve_ust_kurulus": "İPEKYOL GİYİM SANAYİ PAZARLAMA VE TİCARET ANONİM ŞİRKETİ , Ipekyol Group",
+        "boykot_sebebi": "Firma sahibi Ayaydın ailesinden Derya Ayaydın AKP milletvekili, Aydın Ayaydın ise AKP Bodrum Belediye Başkan adayıydı.",
+        "kaynak": "https://www.akparti.org.tr/tbmm/yonetim/milletvekillerimiz/%C4%B1stanbul?660896//Derya-AYAYDIN"
+    },
+    "Machka": {
+        "firma": "Machka",
+        "url_list": [
+            "machka.com.tr"
+        ],
+        "trigger_list": [
+            "machka"
+        ],
+        "unvan_ve_ust_kurulus": "İPEKYOL GİYİM SANAYİ PAZARLAMA VE TİCARET ANONİM ŞİRKETİ , Ipekyol Group",
+        "boykot_sebebi": "Firma sahibi Ayaydın ailesinden Derya Ayaydın AKP milletvekili, Aydın Ayaydın ise AKP Bodrum Belediye Başkan adayıydı.",
+        "kaynak": "https://www.akparti.org.tr/tbmm/yonetim/milletvekillerimiz/%C4%B1stanbul?660896//Derya-AYAYDIN"
+    },
+    "Twist": {
+        "firma": "Twist",
+        "url_list": [
+            "twist.com.tr"
+        ],
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "İPEKYOL GİYİM SANAYİ PAZARLAMA VE TİCARET ANONİM ŞİRKETİ , Ipekyol Group",
+        "boykot_sebebi": "Firma sahibi Ayaydın ailesinden Derya Ayaydın AKP milletvekili, Aydın Ayaydın ise AKP Bodrum Belediye Başkan adayıydı.",
+        "kaynak": "https://www.akparti.org.tr/tbmm/yonetim/milletvekillerimiz/%C4%B1stanbul?660896//Derya-AYAYDIN"
+    },
+    "Bellona": {
+        "firma": "Bellona",
+        "url_list": [
+            "bellona.com.tr"
+        ],
+        "trigger_list": [
+            "bellona"
+        ],
+        "unvan_ve_ust_kurulus": "Bellona Mobilya A.Ş., Erciyes Anadolu Holding",
+        "boykot_sebebi": "Bağlı olduğu Erciyes Anadolu Holding TMSF’ye ait.",
+        "kaynak": "https://tr.wikipedia.org/wiki/Erciyes_Anadolu_Holding"
+    },
+    "Mondi Home": {
+        "firma": "Mondi Home",
+        "url_list": [
+            "mondihome.com.tr"
+        ],
+        "trigger_list": [
+            "mondi home",
+            "mondi-home"
+        ],
+        "unvan_ve_ust_kurulus": "Mondi Mobilya Sanayi ve Ticaret A.Ş., Erciyes Anadolu Holding",
+        "boykot_sebebi": "Bağlı olduğu Erciyes Anadolu Holding TMSF’ye ait.",
+        "kaynak": "https://tr.wikipedia.org/wiki/Erciyes_Anadolu_Holding"
+    },
+    "İstikbal Mobilya": {
+        "firma": "İstikbal Mobilya",
+        "url_list": [
+            "istikbal.com.tr"
+        ],
+        "trigger_list": [
+            "istikbal mobilya",
+            "istikbal-mobilya"
+        ],
+        "unvan_ve_ust_kurulus": "İstikbal Mobilya A.Ş., Erciyes Anadolu Holding",
+        "boykot_sebebi": "Bağlı olduğu Erciyes Anadolu Holding TMSF’ye ait.",
+        "kaynak": "https://tr.wikipedia.org/wiki/Erciyes_Anadolu_Holding"
+    }
+}

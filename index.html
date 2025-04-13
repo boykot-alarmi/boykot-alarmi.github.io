@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Boykot Alarmı</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: sans-serif;
+      line-height: 1.6;
+      scroll-behavior: smooth;
+    }
+    header {
+      position: sticky;
+      top: 0;
+      background: white;
+      z-index: 1000;
+      transition: all 0.3s ease;
+      text-align: center;
+      padding: 2rem 1rem 1rem;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+    header.shrink {
+      padding: 0.5rem 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .logo {
+      font-size: 2rem;
+      font-weight: bold;
+      transition: all 0.3s ease;
+    }
+    header.shrink .logo {
+      font-size: 1.2rem;
+    }
+    .nav-links {
+      margin-top: 0.5rem;
+    }
+    header.shrink .nav-links {
+      margin-top: 0;
+    }
+    .nav-links a {
+      margin: 0 1rem;
+      text-decoration: none;
+      color: #333;
+      font-size: 1rem;
+      transition: font-size 0.3s ease;
+    }
+    header.shrink .nav-links a {
+      font-size: 0.9rem;
+    }
+    section {
+      padding: 4rem 1rem;
+      max-width: 1200px;
+      margin: auto;
+    }
+    iframe {
+      width: 100%;
+      height: 600px;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <header id="mainHeader">
+    <div class="logo">Boykot Alarmı</div>
+    <div class="nav-links">
+      <a href="#boykot">Boykot Listesi</a>
+      <a href="#oneriler">Sorun / Öneri Bildir</a>
+    </div>
+  </header>
+
+  <section id="boykot">
+    <h2>Boykot Listesi</h2>
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSnptKFXm2F6gLzm8jmzxRLmxpr2NfhFaRiOpMlHjRfrY7hQZqWPIh-g3bsMyhWoGI6MA_lEEgNDRAl/pubhtml"></iframe>
+  </section>
+
+  <section id="oneriler">
+    <h2>Sorun / Öneri Bildir</h2>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScxZo-f9ZXNEtDgegEYEJzxKPfsYbuVYD07weqtRFB9itEjyg/viewform?embedded=true" width="640" height="402" frameborder="0" marginheight="0" marginwidth="0">Yükleniyor…</iframe>
+  </section>
+
+</body>
+</html>
