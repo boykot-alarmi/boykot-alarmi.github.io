@@ -430,7 +430,10 @@
         "url_list": [
             "dsmart.com.tr"
         ],
-        "trigger_list": [],
+        "trigger_list": [
+            "dsmart",
+            "d-smart"
+        ],
         "unvan_ve_ust_kurulus": "Demirören İnternet ve İletişim Hizmetleri Ticaret A.Ş., Demirören Holding",
         "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
         "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704038"
@@ -768,7 +771,7 @@
             "audi.com.tr"
         ],
         "trigger_list": [
-            "audi",
+            "audi ",
             "audi türkiye"
         ],
         "unvan_ve_ust_kurulus": "Doğuş Otomotiv Servis ve Ticaret A.Ş, Doğuş Holding",
@@ -1171,7 +1174,17 @@
             "saklıköy",
             "çokomilk",
             "cokomilk",
-            "piko"
+            "piko",
+            "kekstra",
+            "çokoprens",
+            "cokoprens",
+            "probis",
+            "taç kraker",
+            "tac-kraker",
+            "çokonat",
+            "cokonat",
+            "altınbaşak",
+            "altinbasak"
         ],
         "unvan_ve_ust_kurulus": "ÜLKER BİSKÜVİ SANAYİ A.Ş., Yıldız Holding",
         "boykot_sebebi": "Firma Özgür Özel’in boykot listesindeydi fakat sonradan çıkarıldı. ",
@@ -1436,5 +1449,43 @@
         "unvan_ve_ust_kurulus": "İstikbal Mobilya A.Ş., Erciyes Anadolu Holding",
         "boykot_sebebi": "Bağlı olduğu Erciyes Anadolu Holding TMSF’ye ait.",
         "kaynak": "https://tr.wikipedia.org/wiki/Erciyes_Anadolu_Holding"
+    },
+    "İkea Türkiye": {
+        "firma": "İkea Türkiye",
+        "url_list": [
+            "ikea.com.tr"
+        ],
+        "trigger_list": [
+            "ikea"
+        ],
+        "unvan_ve_ust_kurulus": "MAPA MOBİLYA VE AKSESUAR PAZARLAMA ANONİM ŞİRKETİ , Maya Holding",
+        "boykot_sebebi": "İkea’nın Türkiye’deki faaliyetlerini yürüten Mapa A.Ş.’nin bağlı olduğu Maya Holding’in sahibi ve CEO’su Ali Nuri Özsüer’in ablası, koyu bir destekçi.",
+        "kaynak": "https://x.com/i/status/1350189599356817418"
+    },
+    "Kiki Milano Türkiye": {
+        "firma": "Kiki Milano Türkiye",
+        "url_list": [
+            "kikomilano.com.tr"
+        ],
+        "trigger_list": [
+            "kiki milano",
+            "kiki-milano"
+        ],
+        "unvan_ve_ust_kurulus": "DOĞUŞ PERAKENDE SATIŞ GİYİM VE AKSESUAR TİCARET ANONİM ŞİRKETİ , Doğuş Holding",
+        "boykot_sebebi": "Firmanın Türkiye’deki faaliyetlerini Doğuş Grubu üstlenmekte. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde. ",
+        "kaynak": "https://www.eticaret.gov.tr/siteprofil/7832600304338521/kikomilanocomtr"
+    },
+    "Under Armour Türkiye": {
+        "firma": "Under Armour Türkiye",
+        "url_list": [
+            "underarmour.com.tr"
+        ],
+        "trigger_list": [
+            "under armour",
+            "under-armour"
+        ],
+        "unvan_ve_ust_kurulus": "DOĞUŞ PERAKENDE SATIŞ GİYİM VE AKSESUAR TİCARET ANONİM ŞİRKETİ , Doğuş Holding",
+        "boykot_sebebi": "Firmanın Türkiye’deki faaliyetlerini Doğuş Grubu üstlenmekte. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde. ",
+        "kaynak": "https://www.eticaret.gov.tr/siteprofil/dc3d85ad8ccc4e7ca769beaea365d2dc/wwwunderarmourcomtr"
     }
 }
