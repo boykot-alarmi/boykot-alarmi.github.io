@@ -21,40 +21,38 @@
       background: #000;
       color: white;
       z-index: 1000;
-      transition: all 0.3s ease;
-      text-align: center;
-      padding: 2rem 1rem 1rem;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.3);
-    }
-    header.shrink {
       padding: 0.5rem 1rem;
       display: flex;
       align-items: center;
       justify-content: space-between;
+      flex-wrap: wrap;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.3);
     }
     .logo img {
-      height: 80px;
+      height: 60px;
       transition: all 0.3s ease;
     }
-    header.shrink .logo img {
-      height: 60px;
+    .menu-toggle {
+      display: none;
+      font-size: 2rem;
+      color: white;
+      background: none;
+      border: none;
+      cursor: pointer;
     }
     .nav-links {
-      margin-top: 0.5rem;
-    }
-    header.shrink .nav-links {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
       margin-top: 0;
     }
     .nav-links a {
       margin: 0 1rem;
       text-decoration: none;
       color: white;
-      font-size: 1rem;
+      font-size: 0.9rem;
       transition: all 0.3s ease;
       position: relative;
-    }
-    header.shrink .nav-links a {
-      font-size: 0.9rem;
     }
     .nav-links a::after {
       content: "";
@@ -74,6 +72,26 @@
     .nav-links a:hover::after {
       opacity: 1;
     }
+    @media (max-width: 768px) {
+      .menu-toggle {
+        display: block;
+      }
+      .nav-links {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        background-color: #000;
+      }
+      .nav-links a {
+        padding: 1rem;
+        border-top: 1px solid #333;
+        width: 100%;
+        text-align: left;
+      }
+      .nav-links.show {
+        display: flex;
+      }
+    }
     section {
       padding: 4rem 1rem;
       max-width: 1200px;
@@ -92,7 +110,8 @@
     <div class="logo">
       <img src="brandicon.png" alt="Boykot Alarmı Logosu" />
     </div>
-    <div class="nav-links">
+    <button class="menu-toggle" id="menuToggle">&#9776;</button>
+    <div class="nav-links" id="navLinks">
       <a href="#boykot">Boykot Listesi</a>
       <a href="#listededegil">Neden boykot listesinde değil?</a>
       <a href="#oneriler">Sorun / Öneri Bildir</a>
@@ -130,18 +149,15 @@
     *Ziyaret ettiğiniz her sitede boykotlu ürünler ve firmalara ait anahtar kelimeleri tarar ve bunların üstünü gözü rahatsız etmeyecek bir şekilde çizer. Farenizi bu kelimelerin üstüne getirdiğinizde, firmayı ve boykot nedenini öğrenebilirsiniz.<br>
     Not: Bazı firmalar çok kısa isimlere sahip oldukları için bkz: FLO, bazıları da yaygın kullanılan isimlere sahip oldukları için bkz: Sabah, sözcük taramasına dahil edilmedi. Gereksiz yere ve zırt pırt uyarı almamız bu firmalara zarar vermez ancak biz kullanıcıların canını sıkar. <br><br>
     *Twitter ve diğer sosyal medya siteleri, Ekşi Sözlük, bazı güvenilir haber siteleri ve arama motorları, gereksiz boykot uyarıları vermemek için istisna listesine alınmıştır. Ancak yine de bu sitelerde de boykotlu firma ve ürünlerin adı geçtiği takdirde üstleri çizilir.<br><br>
-    *Boykot listesine her zaman harici olarak bu siteden veya <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSnptKFXm2F6gLzm8jmzxRLmxpr2NfhFaRiOpMlHjRfrY7hQZqWPIh-g3bsMyhWoGI6MA_lEEgNDRAl/pubhtml">bu Google tablosundan</a> ulaşabilirsiniz. Bu projenin asıl iş yükü ve önemli kısmı zaten bu liste. Bu listenin günden güne genişlemesi için, önerilerinizi bana ulaştırabilirsiniz. Ancak bir firmayı bildirmeden önce, ilk olarak zaten boykot listesinde olmadığını, sonra da "Neden boykot listesinde değil?" listesinde olmadığını kontrol etmenizde fayda var. Çünkü boykota uğrayan firmalar yeterince hızlı olamasalar da günler içerisinde açıklama yapıp, özür dileyebiliyorlar. Veya haksız yere boykot çağrılarına kurban olabiliyorlar. Elbette siz bu özür ve açıklamaları yeterli görmeyip bu firmaları boykota devam edebilirsiniz. Zaten bu ikinci listenin de amacı kararı size bırakmak. Yine de bu firmaların boykot listesine geri alınması için elinizde ikna edici bir sebep varsa lütfen gönderin. Ülkede düzgün bir basın olmadığı için o kadar bilgi kirliği var ki benim kafam da <s>taşşağa</s> döndü, kimin en son nerde durduğunu artık bilemiyorum.<br><br>
+    *Boykot listesine her zaman harici olarak bu siteden veya <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSnptKFXm2F6gLzm8jmzxRLmxpr2NfhFaRiOpMlHjRfrY7hQZqWPIh-g3bsMyhWoGI6MA_lEEgNDRAl/pubhtml">bu Google tablosundan</a> ulaşabilirsiniz. Bu projenin asıl iş yükü ve önemli kısmı zaten bu liste. Bu listenin günden güne genişlemesi için, önerilerinizi bana ulaştırabilirsiniz. Ancak bir firmayı bildirmeden önce, ilk olarak zaten boykot listesinde olmadığını, sonra da "Neden boykot listesinde değil?" listesinde olmadığını kontrol etmenizde fayda var. Çünkü boykota uğrayan firmalar yeterince hızlı olamasalar da günler içerisinde açıklama yapıp, özür dileyebiliyorlar. Veya haksız yere boykot çağrılarına kurban olabiliyorlar. Elbette siz bu özür ve açıklamaları yeterli görmeyip bu firmaları boykota devam edebilirsiniz. Zaten bu ikinci listenin de amacı kararı size bırakmak. Yine de bu firmaların boykot listesine geri alınması için elinizde ikna edici bir sebep varsa lütfen gönderin.<br><br>
     Öneri/sorun bildirimi ve diğer iletişim için yukarıdaki formu veya geribildirim@boykotalarmi.com'u kullanabilirsiniz.
   </section>
 
   <script>
-    const header = document.getElementById("mainHeader");
-    window.addEventListener("scroll", () => {
-      if (window.scrollY > 50) {
-        header.classList.add("shrink");
-      } else {
-        header.classList.remove("shrink");
-      }
+    const toggle = document.getElementById('menuToggle');
+    const nav = document.getElementById('navLinks');
+    toggle.addEventListener('click', () => {
+      nav.classList.toggle('show');
     });
   </script>
 </body>
