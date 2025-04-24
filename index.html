@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="icon" type="image/png" href="/icon.png">
+  <link rel="icon" type="image/png" href="/icons/icon.png">
   <title>Boykot Alarmı</title>
   <style>
     * {
@@ -104,28 +104,57 @@
       height: 600px;
       border: none;
     }
+    .footer {
+      background-color: #000;
+      padding: 1rem 0;
+      text-align: center;
+      margin-top: 4rem;
+    }
+    .socials {
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+    }
+    .socials img {
+      height: 32px;
+      width: 32px;
+      filter: brightness(0) invert(1); /* İkonlar siyahsa beyaza çevirir */
+      transition: transform 0.3s ease, opacity 0.3s ease;
+      opacity: 0.85;
+    }
+    .socials img:hover {
+      transform: scale(1.2);
+      opacity: 1;
+   }
   </style>
 </head>
 <body>
   <header id="mainHeader">
     <div class="logo">
-      <img src="brandicon.png" alt="Boykot Alarmı Logosu" />
+      <img src="icons/brandicon.png" alt="Boykot Alarmı Logosu" />
     </div>
     <button class="menu-toggle" id="menuToggle">&#9776;</button>
     <div class="nav-links" id="navLinks">
-      <a href="#boykot">Boykot Listesi</a>
-      <a href="#listededegil">Neden boykot listesinde değil?</a>
+      <a href="#liste">Boykot Listesi</a>
+      <a href="#takvim">Boykot Takvimi</a>
+      <a href="#listedisi">Neden boykot listesinde değil?</a>
       <a href="#oneriler">Sorun / Öneri Bildir</a>
       <a href="#hakkinda">Hakkında</a>
     </div>
   </header>
 
-  <section id="boykot">
+  <section id="liste">
     <h2>Boykot Listesi</h2>
     <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSnptKFXm2F6gLzm8jmzxRLmxpr2NfhFaRiOpMlHjRfrY7hQZqWPIh-g3bsMyhWoGI6MA_lEEgNDRAl/pubhtml"></iframe>
   </section>
 
-  <section id="listededegil">
+  <section id="takvim">
+    <h2>Boykot Takvimi</h2>
+    <iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=1&ctz=Europe%2FIstanbul&showPrint=0&showTz=0&showCalendars=0&showTabs=0&showTitle=0&src=Y185ZTdkMDNkZjY5OTliZDEzZTc2MDk0YWJhMDg2OTczMTYxNzUzMjYwMmMyODdkMzA1NjI5ZjFiNDE4M2FjODczQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23D50000" style="border-width:0" width="600" height="400" frameborder="0" scrolling="no"></iframe>
+  </section>
+
+  <section id="listedisi">
     <h2>Neden boykot listesinde değil?</h2><br><br>
     Öncelikle bu listedeki firmalar yeterli kanıt bulunamadığı için bu boykot listesinde değil. Eğer bu firmaların yandaş olduğuna kanaat getirdiyseniz boykot ediniz ve hatta varsa kanıtlarını bana atınız ki listeye ekleyeyim.<br><br>
     Üç Dört Beş yayınları, <a href="https://x.com/345yayinlari/status/1912926891603829130">pedofil lise hocası Erdinç Çakıroğlu'yla iş yapmayacaklarını açıkladı</a>,
@@ -154,6 +183,24 @@
     Öneri/sorun bildirimi ve diğer iletişim için yukarıdaki formu veya geribildirim@boykotalarmi.com'u kullanabilirsiniz.
   </section>
 
+  <footer class="footer">
+    <div class="socials">
+      <a href="https://instagram.com/boykotalarmi" target="_blank" aria-label="Instagram">
+      <img src="icons/instagram-128.png" alt="Instagram">
+      </a>
+      <a href="https://twitter.com/boykotalarmi" target="_blank" aria-label="Twitter">
+      <img src="icons/twitter-128.png" alt="Twitter">
+      </a>
+      <a href="https://bsky.app/profile/boykotalarmi.bsky.social" target="_blank" aria-label="Bluesky">
+      <img src="icons/bluesky-128.png" alt="Bluesky">
+      </a>
+      <a href="mailto:geribildirim@boykotalarmi.com" target="_blank" aria-label="Email">
+      <img src="icons/mail-128.png" alt="Email">
+      </a>
+    </div>
+    <p style="color:#ebebeb">Boykot Alarmı • Aceleyle ve bolca kahveyle yapıldı ☕</p>
+  </footer>
+
   <script>
     const toggle = document.getElementById('menuToggle');
     const nav = document.getElementById('navLinks');
@@ -161,5 +208,6 @@
       nav.classList.toggle('show');
     });
   </script>
+
 </body>
 </html>
