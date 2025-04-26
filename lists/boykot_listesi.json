@@ -5,10 +5,10 @@
             "espressolab.com"
         ],
         "trigger_list": [
-            "espressolab",
-            "eslab"
+            "eslab",
+            "espressolab"
         ],
-        "unvan_ve_ust_kurulus": "Eslab Kahve Gıda Sanayi ve Ticaret A.Ş, nan",
+        "unvan_ve_ust_kurulus": "Eslab Kahve Gıda Sanayi ve Ticaret A.Ş, null",
         "boykot_sebebi": "Firma sahibi Kocadağ ailesinin AKP ile yakınlığı ve ticari başarısını bu yakınlığa borçlu olması.",
         "kaynak": "https://www.birgun.net/haber/espressolab-kimin-espressolab-neden-boykot-ediliyor-610148"
     },
@@ -42,8 +42,8 @@
             "turkuvazkitap.com.tr"
         ],
         "trigger_list": [
-            "turkuvaz_kitap",
-            "turkuvaz kitap"
+            "turkuvaz kitap",
+            "turkuvaz-kitap"
         ],
         "unvan_ve_ust_kurulus": "Turkuvaz Müzik Kitap Mağazacılık Pazarlama A.Ş, Turkuvaz Medya Grubu",
         "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
@@ -56,6 +56,7 @@
         ],
         "trigger_list": [
             "sabah gazetesi",
+            "sabah-gazetesi",
             "sabah gazete",
             "sabah-gazete"
         ],
@@ -68,7 +69,10 @@
         "url_list": [
             "takvim.com.tr"
         ],
-        "trigger_list": [],
+        "trigger_list": [
+            "takvim gazetesi",
+            "takvim-gazetesi"
+        ],
         "unvan_ve_ust_kurulus": "Turkuvaz Haberleşme Ve Yayıncılık A.Ş, Turkuvaz Medya Grubu",
         "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
         "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
@@ -78,7 +82,11 @@
         "url_list": [
             "yeniasir.com.tr"
         ],
-        "trigger_list": [],
+        "trigger_list": [
+            "yeniasır",
+            "yeni asır",
+            "yeni-asır"
+        ],
         "unvan_ve_ust_kurulus": "Turkuvaz Haberleşme Ve Yayıncılık A.Ş, Turkuvaz Medya Grubu",
         "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
         "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
@@ -99,9 +107,13 @@
     "Daily Sabah": {
         "firma": "Daily Sabah",
         "url_list": [
-            "dailysabah.com/"
+            "dailysabah.com"
         ],
-        "trigger_list": [],
+        "trigger_list": [
+            "dailysabah",
+            "daily sabah",
+            "daily-sabah"
+        ],
         "unvan_ve_ust_kurulus": "Turkuvaz Haberleşme Ve Yayıncılık A.Ş, Turkuvaz Medya Grubu",
         "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
         "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
@@ -122,11 +134,9 @@
             "ahaber.com.tr"
         ],
         "trigger_list": [
-            "ahaber",
-            "a haber",
-            "a-haber"
+            "ahaber"
         ],
-        "unvan_ve_ust_kurulus": "Turkuvaz Medya Yayın Hizmetleri A.Ş. , Turkuvaz Medya Grubu",
+        "unvan_ve_ust_kurulus": "Turkuvaz Medya Yayın Hizmetleri A.Ş., Turkuvaz Medya Grubu",
         "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
         "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
     },
@@ -165,7 +175,9 @@
         "url_list": [
             "minika.com.tr"
         ],
-        "trigger_list": [],
+        "trigger_list": [
+            "minika"
+        ],
         "unvan_ve_ust_kurulus": "Turkuvaz Tv Hizmetleri A.Ş., Turkuvaz Medya Grubu",
         "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
         "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
@@ -175,7 +187,10 @@
         "url_list": [
             "minikago.com.tr"
         ],
-        "trigger_list": [],
+        "trigger_list": [
+            "minika go",
+            "minika-go"
+        ],
         "unvan_ve_ust_kurulus": "Turkuvaz Tv Hizmetleri A.Ş., Turkuvaz Medya Grubu",
         "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
         "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
@@ -185,7 +200,10 @@
         "url_list": [
             "minikacocuk.com.tr"
         ],
-        "trigger_list": [],
+        "trigger_list": [
+            "minika çocuk",
+            "minika-cocuk"
+        ],
         "unvan_ve_ust_kurulus": "Turkuvaz Tv Hizmetleri A.Ş., Turkuvaz Medya Grubu",
         "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
         "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
@@ -195,7 +213,11 @@
         "url_list": [
             "vavtv.com.tr"
         ],
-        "trigger_list": [],
+        "trigger_list": [
+            "vav tv",
+            "vav-tv",
+            "vavtv"
+        ],
         "unvan_ve_ust_kurulus": "Turkuvaz İzmir Televizyon ve Yayıncılık Prodüksiyon ve Radyoculuk A.Ş., Turkuvaz Medya Grubu",
         "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
         "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
@@ -230,8 +252,8 @@
         "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
         "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
     },
-    "Esquire Türkiye ": {
-        "firma": "Esquire Türkiye ",
+    "Esquire Türkiye": {
+        "firma": "Esquire Türkiye",
         "url_list": [
             "esquire.com.tr"
         ],
@@ -308,9 +330,7 @@
         "url_list": [
             "esube.kargomsende.com"
         ],
-        "trigger_list": [
-            "kargomsende"
-        ],
+        "trigger_list": [],
         "unvan_ve_ust_kurulus": "Turkuvaz Dağıtım Pazarlama A.Ş, Turkuvaz Medya Grubu",
         "boykot_sebebi": "Hükümetin basın ve yayın kurumları. Özel’in boykot listesinde.",
         "kaynak": "https://www.birgun.net/haber/d-r-kimin-d-r-neden-boykot-ediliyor-610172"
@@ -331,7 +351,7 @@
             "gazetevatan.com"
         ],
         "trigger_list": [],
-        "unvan_ve_ust_kurulus": "Vatan Gazetecilik A.Ş , Demirören Holding",
+        "unvan_ve_ust_kurulus": "Vatan Gazetecilik A.Ş, Demirören Holding",
         "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
         "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704028"
     },
@@ -380,7 +400,10 @@
         "url_list": [
             "cnnturk.com"
         ],
-        "trigger_list": [],
+        "trigger_list": [
+            "cnn türk",
+            "cnn-turk"
+        ],
         "unvan_ve_ust_kurulus": "MES TELEVİZYON ve RADYO Yayıncılık A.Ş., Demirören Holding",
         "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
         "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704033"
@@ -430,10 +453,7 @@
         "url_list": [
             "dsmart.com.tr"
         ],
-        "trigger_list": [
-            "dsmart",
-            "d-smart"
-        ],
+        "trigger_list": [],
         "unvan_ve_ust_kurulus": "Demirören İnternet ve İletişim Hizmetleri Ticaret A.Ş., Demirören Holding",
         "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
         "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704038"
@@ -466,10 +486,7 @@
             "misli.com"
         ],
         "trigger_list": [
-            "misli.com",
-            "misli com",
-            "misli .com",
-            "misli-com"
+            "misli.com"
         ],
         "unvan_ve_ust_kurulus": "Misli Elektronik Şans Oyunları ve Yayıncılık A.Ş, Demirören Holding",
         "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
@@ -480,7 +497,10 @@
         "url_list": [
             "millipiyangoonline.com"
         ],
-        "trigger_list": [],
+        "trigger_list": [
+            "milli piyango",
+            "milli-piyango"
+        ],
         "unvan_ve_ust_kurulus": "Sisal Şans İnteraktif Hizmetler ve Şans Oyunları Yatırım A.Ş., Demirören Holding ve Sisal S.p.A.",
         "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
         "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704042"
@@ -490,10 +510,7 @@
         "url_list": [
             "kemercountry.com"
         ],
-        "trigger_list": [
-            "kemer-country-club",
-            "kemer_golf_country_club"
-        ],
+        "trigger_list": [],
         "unvan_ve_ust_kurulus": "Kemer Yapı ve Turizm A.Ş., Demirören Holding",
         "boykot_sebebi": "Demirören Holding’e ait ve grubun hükümete yakınlığı sır değil. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
         "kaynak": "https://www.muhalif.com.tr/bilgi-noktasi/misli-kimin-mislicom-neden-boykot-ediliyor/704043"
@@ -516,10 +533,7 @@
         "url_list": [
             "flo.com.tr"
         ],
-        "trigger_list": [
-            "flo ayakkabı",
-            "flo-ayakkabi"
-        ],
+        "trigger_list": [],
         "unvan_ve_ust_kurulus": "Flo Mağazacılık ve Pazarlama A.Ş., Ziylan Grup",
         "boykot_sebebi": "BİM’in firmada hissesi mevcut.",
         "kaynak": "https://kurumsal.flo.com.tr/bilgi-toplumu-hizmetleri"
@@ -541,7 +555,9 @@
         "url_list": [
             "lumberjack.com.tr"
         ],
-        "trigger_list": [],
+        "trigger_list": [
+            "lumberjack"
+        ],
         "unvan_ve_ust_kurulus": "Flo Mağazacılık ve Pazarlama A.Ş., Ziylan Grup",
         "boykot_sebebi": "BİM’in firmada hissesi mevcut.",
         "kaynak": "https://kurumsal.flo.com.tr/bilgi-toplumu-hizmetleri"
@@ -563,10 +579,7 @@
         "url_list": [
             "instagram.com/polarisayakkabi/"
         ],
-        "trigger_list": [
-            "polaris ayakkabı",
-            "polaris-ayakkabi"
-        ],
+        "trigger_list": [],
         "unvan_ve_ust_kurulus": "Flo Mağazacılık ve Pazarlama A.Ş., Ziylan Grup",
         "boykot_sebebi": "BİM’in firmada hissesi mevcut.",
         "kaynak": "https://kurumsal.flo.com.tr/bilgi-toplumu-hizmetleri"
@@ -614,7 +627,9 @@
             "ninewest.com.tr"
         ],
         "trigger_list": [
-            "nine-west"
+            "ninewest",
+            "nine-west",
+            "nine west"
         ],
         "unvan_ve_ust_kurulus": "Flo Mağazacılık ve Pazarlama A.Ş., Ziylan Grup",
         "boykot_sebebi": "BİM’in firmada hissesi mevcut.",
@@ -626,7 +641,7 @@
             "yorsan.com.tr"
         ],
         "trigger_list": [
-            "yorsan-sut"
+            "yörsan"
         ],
         "unvan_ve_ust_kurulus": "YÖRSAN SÜT VE SÜT ÜRÜNLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ, Matlı Holding",
         "boykot_sebebi": "Firma sahibi, AKP MKYK üyesi ve milletvekili Önder Matlı.",
@@ -638,7 +653,7 @@
             "keskinoglu.com.tr"
         ],
         "trigger_list": [
-            "keskinoglu"
+            "keskinoğlu"
         ],
         "unvan_ve_ust_kurulus": "KESKİNOĞLU TAV. VE DAM. İŞL. SAN. TİC. A.Ş., Matlı Holding",
         "boykot_sebebi": "Firma sahibi, AKP MKYK üyesi ve milletvekili Önder Matlı.",
@@ -651,9 +666,10 @@
         ],
         "trigger_list": [
             "etstur",
+            "ets tur",
             "ets-tur"
         ],
-        "unvan_ve_ust_kurulus": "Ets Ersoy Turistik Servisleri Anonim Şirketi, nan",
+        "unvan_ve_ust_kurulus": "Ets Ersoy Turistik Servisleri Anonim Şirketi, null",
         "boykot_sebebi": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy’a ait.",
         "kaynak": "https://tr.wikipedia.org/wiki/Mehmet_Nuri_Ersoy"
     },
@@ -665,7 +681,7 @@
         "trigger_list": [
             "ucuzabilet"
         ],
-        "unvan_ve_ust_kurulus": "Ets Ersoy Turistik Servisleri Anonim Şirketi, nan",
+        "unvan_ve_ust_kurulus": "Ets Ersoy Turistik Servisleri Anonim Şirketi, null",
         "boykot_sebebi": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy’a ait.",
         "kaynak": "https://tr.wikipedia.org/wiki/Mehmet_Nuri_Ersoy"
     },
@@ -675,10 +691,10 @@
             "maxxroyal.com"
         ],
         "trigger_list": [
-            "maxx royal",
-            "maxx-royal"
+            "maxx royale",
+            "maxx-royale"
         ],
-        "unvan_ve_ust_kurulus": "VOYAG TURİZM OTELCİLİK İŞLETMESİ VE İNŞAAT SANAYİ TİCARET ANONİM ŞİRKETİ, nan",
+        "unvan_ve_ust_kurulus": "VOYAG TURİZM OTELCİLİK İŞLETMESİ VE İNŞAAT SANAYİ TİCARET ANONİM ŞİRKETİ, null",
         "boykot_sebebi": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy’a ait.",
         "kaynak": "https://tr.wikipedia.org/wiki/Mehmet_Nuri_Ersoy"
     },
@@ -687,8 +703,11 @@
         "url_list": [
             "voyagehotel.com"
         ],
-        "trigger_list": [],
-        "unvan_ve_ust_kurulus": "VOYAG TURİZM OTELCİLİK İŞLETMESİ VE İNŞAAT SANAYİ TİCARET ANONİM ŞİRKETİ, nan",
+        "trigger_list": [
+            "voyage hotel",
+            "voyage-hotel"
+        ],
+        "unvan_ve_ust_kurulus": "VOYAG TURİZM OTELCİLİK İŞLETMESİ VE İNŞAAT SANAYİ TİCARET ANONİM ŞİRKETİ, null",
         "boykot_sebebi": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy’a ait.",
         "kaynak": "https://tr.wikipedia.org/wiki/Mehmet_Nuri_Ersoy"
     },
@@ -728,9 +747,10 @@
             "puhutv.com"
         ],
         "trigger_list": [
-            "puhu",
+            "puhu tv",
+            "puhu-tv",
             "puhutv",
-            "puhu-tv"
+            "puhu"
         ],
         "unvan_ve_ust_kurulus": "PUHUTV YAYINCILIK A.Ş, Doğuş Holding",
         "boykot_sebebi": "Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
@@ -739,14 +759,13 @@
     "Doğuş Otomotiv": {
         "firma": "Doğuş Otomotiv",
         "url_list": [
-            "dogusotomotiv.com.tr",
-            "dogusoto.com.tr"
+            "dogusotomotiv.com.tr, dogusoto.com.tr"
         ],
         "trigger_list": [
-            "doğuş oto",
             "doğuş otomotiv",
-            "dogus-oto",
-            "dogus-otomotiv"
+            "doğuş oto",
+            "dogus-otomotiv",
+            "dogus-oto"
         ],
         "unvan_ve_ust_kurulus": "Doğuş Otomotiv Servis ve Ticaret A.Ş, Doğuş Holding",
         "boykot_sebebi": "Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
@@ -758,7 +777,6 @@
             "vw.com.tr"
         ],
         "trigger_list": [
-            "vw",
             "volkswagen"
         ],
         "unvan_ve_ust_kurulus": "Doğuş Otomotiv Servis ve Ticaret A.Ş, Doğuş Holding",
@@ -771,8 +789,7 @@
             "audi.com.tr"
         ],
         "trigger_list": [
-            "audi ",
-            "audi türkiye"
+            "audi"
         ],
         "unvan_ve_ust_kurulus": "Doğuş Otomotiv Servis ve Ticaret A.Ş, Doğuş Holding",
         "boykot_sebebi": "Türkiye distribütörü Doğuş Otomotiv, protesto ve boykotları kendi yayın kuruluşlarında yayınlamıyor. Özel’in boykot listesinde.",
@@ -798,31 +815,33 @@
         "trigger_list": [
             "skoda"
         ],
-        "unvan_ve_ust_kurulus": "Yüce Auto Motorlu Araçlar Ticaret A.Ş. , Doğuş Holding",
+        "unvan_ve_ust_kurulus": "Yüce Auto Motorlu Araçlar Ticaret A.Ş., Doğuş Holding",
         "boykot_sebebi": "Türkiye distribütörü Yücel Oto’nun sahibi Doğuş Otomotiv, protesto ve boykotları kendi yayın kuruluşlarında yayınlamıyor. Özel’in boykot listesinde.",
         "kaynak": "https://onedio.com/haber/ozgur-ozel-in-tv-kanallarini-elestirdigi-anlarda-ntv-nin-canli-yayini-kesmesi-dikkat-cekti-1281455"
     },
     "ebebek": {
         "firma": "ebebek",
         "url_list": [
-            "e-bebek.com"
+            "ebebek.com, e-bebek.com"
         ],
         "trigger_list": [
+            "e-bebek",
             "ebebek"
         ],
-        "unvan_ve_ust_kurulus": "Ebebek Mağazacılık A.Ş, nan",
+        "unvan_ve_ust_kurulus": "Ebebek Mağazacılık A.Ş, null",
         "boykot_sebebi": "Firma hisselerinin çoğunluğu AKP’li Topbaş ailesine ait.",
         "kaynak": "https://www.kap.org.tr/tr/Bildirim/1194547"
     },
     "Saray Muhallebicisi": {
         "firma": "Saray Muhallebicisi",
         "url_list": [
-            "online.saraymuhallebicisi.com"
+            "saraymuhallebicisi.com"
         ],
         "trigger_list": [
+            "saray muhallebicisi",
             "saray-muhallebicisi"
         ],
-        "unvan_ve_ust_kurulus": "Teşvikiye Saray Gıda San. ve Tic.A.Ş., nan",
+        "unvan_ve_ust_kurulus": "Teşvikiye Saray Gıda San. ve Tic.A.Ş., null",
         "boykot_sebebi": "Firma AKP’li Topbaş ailesine ait.",
         "kaynak": "https://online.saraymuhallebicisi.com/hakkimizda"
     },
@@ -834,7 +853,7 @@
         "trigger_list": [
             "evidea"
         ],
-        "unvan_ve_ust_kurulus": "Evidea Mağazacılık A.Ş., nan",
+        "unvan_ve_ust_kurulus": "Evidea Mağazacılık A.Ş., null",
         "boykot_sebebi": "Firma hisselerinin çoğunluğu AKP’li Topbaş ailesine ait.",
         "kaynak": "https://webrazzi.com/2019/01/07/evideanin-cogunluk-hisselerini-topbas-ailesi-aldi/"
     },
@@ -924,7 +943,7 @@
             "medizahospital.com"
         ],
         "trigger_list": [],
-        "unvan_ve_ust_kurulus": "nan, Can Holding",
+        "unvan_ve_ust_kurulus": "null, Can Holding",
         "boykot_sebebi": "Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
         "kaynak": "https://www.haberhurriyeti.com/haber/24376377/ozelin-boykot-cagrisi-karsilik-buldu-ogrenciler-dev-markanin-subesini-muhurledi"
     },
@@ -933,7 +952,10 @@
         "url_list": [
             "dogakoleji.k12.tr"
         ],
-        "trigger_list": [],
+        "trigger_list": [
+            "doğa koleji",
+            "doga-koleji"
+        ],
         "unvan_ve_ust_kurulus": "İTÜ ETA Vakfı, Can Holding",
         "boykot_sebebi": "Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
         "kaynak": "https://www.haberhurriyeti.com/haber/24376377/ozelin-boykot-cagrisi-karsilik-buldu-ogrenciler-dev-markanin-subesini-muhurledi"
@@ -957,7 +979,7 @@
             "habertürk",
             "haberturk"
         ],
-        "unvan_ve_ust_kurulus": "Ciner Medya TV Hizmetleri Anonim Şirketi , Can Holding",
+        "unvan_ve_ust_kurulus": "Ciner Medya TV Hizmetleri Anonim Şirketi, Can Holding",
         "boykot_sebebi": "Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
         "kaynak": "https://gazeteoksijen.com/ekonomi/rekabet-kurumu-onayladi-ciner-yayin-holding-resmen-can-grubuna-devredildi-237280"
     },
@@ -968,7 +990,7 @@
         ],
         "trigger_list": [
             "show tv",
-            "show-tv",
+            "shot-tv",
             "showtv"
         ],
         "unvan_ve_ust_kurulus": "Show Televizyon Yayıncılık A.Ş., Can Holding",
@@ -996,8 +1018,8 @@
         ],
         "trigger_list": [
             "bloomberght",
-            "bloomberg ht",
-            "bloomberg-ht"
+            "bloomberg-ht",
+            "bloomberg ht"
         ],
         "unvan_ve_ust_kurulus": "C Görsel Yayınlar A.Ş., Can Holding",
         "boykot_sebebi": "Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
@@ -1016,7 +1038,7 @@
     "Delonghi Türkiye Distribütörlüğü": {
         "firma": "Delonghi Türkiye Distribütörlüğü",
         "url_list": [
-            "shop.delonghi.com.tr"
+            "delonghi.com.tr"
         ],
         "trigger_list": [
             "delonghi"
@@ -1056,7 +1078,7 @@
             "çitlekçi",
             "citlekci"
         ],
-        "unvan_ve_ust_kurulus": "Çitlekçi Mağazacılık Gıda A.Ş., Tunçlar Yatırım Holding ",
+        "unvan_ve_ust_kurulus": "Çitlekçi Mağazacılık Gıda A.Ş., Tunçlar Yatırım Holding",
         "boykot_sebebi": "Bakanların karşı boykot ziyaretlerinin uğrak noktası.",
         "kaynak": "https://x.com/ajans_muhbir/status/1907449392732180770"
     },
@@ -1066,18 +1088,17 @@
             "basdasmarket.com"
         ],
         "trigger_list": [
-            "başdaş",
-            "basdas"
+            "basdas",
+            "başdaş"
         ],
-        "unvan_ve_ust_kurulus": "BAŞDAŞ MARKETÇİLİK GIDA İNŞ.TUR.EGT.HAYV.SAN TİC. LTD. ŞTİ. , nan",
+        "unvan_ve_ust_kurulus": "BAŞDAŞ MARKETÇİLİK GIDA İNŞ.TUR.EGT.HAYV.SAN TİC. LTD. ŞTİ., null",
         "boykot_sebebi": "Ailenin üyelerinden Mehmet Sait Başdaş AKP İzmir Konak İlçe Başkanı.",
         "kaynak": "https://x.com/SAITBASDAS"
     },
     "Kopernik Kitap": {
         "firma": "Kopernik Kitap",
         "url_list": [
-            "kopernikkitap.com.tr",
-            "m5dergi.com"
+            "kopernikkitap.com, m5dergi.com"
         ],
         "trigger_list": [
             "kopernik-kitap",
@@ -1092,7 +1113,7 @@
         ],
         "unvan_ve_ust_kurulus": "Dolmabahçe Basın Yayın A.Ş., Dolmabahçe Medya Grubu",
         "boykot_sebebi": "Grubun sahibi Abdülkadir Özkan. Kendisi boykotçulara “vatan haini” tweet’ini atan adam.",
-        "kaynak": "https://x.com/akadir137/status/1906072378683105419 "
+        "kaynak": "https://x.com/akadir137/status/1906072378683105419"
     },
     "DBL Entertainment": {
         "firma": "DBL Entertainment",
@@ -1100,35 +1121,32 @@
             "dbltr.com"
         ],
         "trigger_list": [
-            "dolmabahçe A.Ş",
-            "dbl-entertainment",
-            "dbl entertainment"
+            "dbl entertainment",
+            "dbl-entertainment"
         ],
         "unvan_ve_ust_kurulus": "Dolmabahçe A.Ş., Dolmabahçe Medya Grubu",
         "boykot_sebebi": "Grubun sahibi Abdülkadir Özkan. Kendisi boykotçulara “vatan haini” tweet’ini atan adam.",
-        "kaynak": "https://x.com/akadir137/status/1906072378683105419 "
+        "kaynak": "https://x.com/akadir137/status/1906072378683105419"
     },
     "Ünal Peynircilik": {
         "firma": "Ünal Peynircilik",
         "url_list": [
-            "unalpeynircilik.com.tr/tr/"
+            "unalpeynircilik.com.tr"
         ],
-        "trigger_list": [
-            "unal-peynir",
-            "unal-klasik-inek-beyaz-peynir"
-        ],
-        "unvan_ve_ust_kurulus": "Ünal Peynircilik İth.İhr.Tic.Ltd.Şti. , nan",
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Ünal Peynircilik İth.İhr.Tic.Ltd.Şti., null",
         "boykot_sebebi": "Firma sahibi Adnan Sungur AKP Tekirdağ teşkilatında görev almış AKP’li biri.",
         "kaynak": "https://www.malkarahaber.com.tr/haber/unal-peynircilik-yonetim-kurulu-baskani-adnan-sungurdan-tbmm-baskan-adayi-secilen-mustafa-sentopa-tebrik-mesaji-6858"
     },
     "LC Waikiki": {
         "firma": "LC Waikiki",
         "url_list": [
-            "lcw.com"
+            "lcwaikiki.com, lcw.com"
         ],
         "trigger_list": [
             "lc waikiki",
-            "lc-waikiki"
+            "lc-waikiki",
+            "lcw"
         ],
         "unvan_ve_ust_kurulus": "LC WAİKİKİ MAĞAZACILIK HİZMETLERİ TİCARET ANONİM ŞİRKETİ, Taha Holding",
         "boykot_sebebi": "Firmanın CEO’su Mustafa Küçük, eski AKP’li Malatya Doğanşehir Belediye Başkanı Vahap Küçük’ün oğlu.",
@@ -1140,12 +1158,12 @@
             "yaylabakliyat.com"
         ],
         "trigger_list": [
-            "yayla",
-            "yayla bakliyat",
-            "yayla-bakliyat"
+            "yayla hazır",
+            "yayla bakiyat",
+            "yayla-bakiyat"
         ],
-        "unvan_ve_ust_kurulus": "YAYLA AGRO GIDA SANAYİ VE TİCARET A.Ş., nan",
-        "boykot_sebebi": "Firma sahibi MÜSİAD üyesi Hasan Gümüş, AKP ile yakın ilişki içinde. ",
+        "unvan_ve_ust_kurulus": "YAYLA AGRO GIDA SANAYİ VE TİCARET A.Ş., null",
+        "boykot_sebebi": "Firma sahibi MÜSİAD üyesi Hasan Gümüş, AKP ile yakın ilişki içinde.",
         "kaynak": "https://safranbolu.meb.gov.tr/www/ak-parti-ilce-baskanligindan-sayin-gumuse-ziyaret/icerik/982"
     },
     "Ülker": {
@@ -1161,19 +1179,16 @@
             "canpare",
             "ikram",
             "çokokrem",
-            "cokokrem",
+            "cokoprens",
             "dido",
             "caramio",
             "albeni",
             "biskrem",
             "hanımeller",
-            "hanimeller",
             "laviva",
             "rondo",
-            "saklikoy",
             "saklıköy",
             "çokomilk",
-            "cokomilk",
             "piko",
             "kekstra",
             "çokoprens",
@@ -1187,7 +1202,7 @@
             "altinbasak"
         ],
         "unvan_ve_ust_kurulus": "ÜLKER BİSKÜVİ SANAYİ A.Ş., Yıldız Holding",
-        "boykot_sebebi": "Firma Özgür Özel’in boykot listesindeydi fakat sonradan çıkarıldı. ",
+        "boykot_sebebi": "Firma Özgür Özel’in boykot listesindeydi fakat sonradan çıkarıldı.",
         "kaynak": "https://t24.com.tr/haber/ozel-genclerin-talebi-demisti-chp-nin-boykot-listesinde-ulker-yok,1228309"
     },
     "Şok Market": {
@@ -1197,11 +1212,10 @@
         ],
         "trigger_list": [
             "şok market",
-            "sok-market",
-            "ceptesok"
+            "sokmarket"
         ],
         "unvan_ve_ust_kurulus": "ŞOK MARKETLER TİCARET A.Ş., Yıldız Holding",
-        "boykot_sebebi": "Firmanın sahibi Ülker, Özgür Özel’in boykot listesindeydi fakat sonradan çıkarıldı. ",
+        "boykot_sebebi": "Firmanın sahibi Ülker, Özgür Özel’in boykot listesindeydi fakat sonradan çıkarıldı.",
         "kaynak": "https://t24.com.tr/haber/ozel-genclerin-talebi-demisti-chp-nin-boykot-listesinde-ulker-yok,1228309"
     },
     "Seç Market": {
@@ -1211,10 +1225,10 @@
         ],
         "trigger_list": [
             "seç market",
-            "sec-market"
+            "secmarket"
         ],
         "unvan_ve_ust_kurulus": "Seç Marketçilik A.Ş, Yıldız Holding",
-        "boykot_sebebi": "Firmanın sahibi Ülker, Özgür Özel’in boykot listesindeydi fakat sonradan çıkarıldı. ",
+        "boykot_sebebi": "Firmanın sahibi Ülker, Özgür Özel’in boykot listesindeydi fakat sonradan çıkarıldı.",
         "kaynak": "https://t24.com.tr/haber/ozel-genclerin-talebi-demisti-chp-nin-boykot-listesinde-ulker-yok,1228309"
     },
     "Godiva": {
@@ -1223,25 +1237,23 @@
             "godiva.com.tr"
         ],
         "trigger_list": [
-            "godiva",
-            "godiva chocolatier",
-            "godiva-chocolatier"
+            "godiva"
         ],
-        "unvan_ve_ust_kurulus": "nan, Yıldız Holding",
-        "boykot_sebebi": "Firmanın sahibi Ülker, Özgür Özel’in boykot listesindeydi fakat sonradan çıkarıldı. ",
+        "unvan_ve_ust_kurulus": "null, Yıldız Holding",
+        "boykot_sebebi": "Firmanın sahibi Ülker, Özgür Özel’in boykot listesindeydi fakat sonradan çıkarıldı.",
         "kaynak": "https://t24.com.tr/haber/ozel-genclerin-talebi-demisti-chp-nin-boykot-listesinde-ulker-yok,1228309"
     },
     "McVities": {
         "firma": "McVities",
         "url_list": [
-            "mcvities.co.uk"
+            "mcvities.com.uk"
         ],
         "trigger_list": [
             "mcvities",
-            "mcvitie’s"
+            "mcvitie's"
         ],
         "unvan_ve_ust_kurulus": "Ülker Bisküvi Sanayi A.Ş., Yıldız Holding",
-        "boykot_sebebi": "Firmanın sahibi Ülker, Özgür Özel’in boykot listesindeydi fakat sonradan çıkarıldı. ",
+        "boykot_sebebi": "Firmanın sahibi Ülker, Özgür Özel’in boykot listesindeydi fakat sonradan çıkarıldı.",
         "kaynak": "https://t24.com.tr/haber/ozel-genclerin-talebi-demisti-chp-nin-boykot-listesinde-ulker-yok,1228309"
     },
     "SuperFresh": {
@@ -1262,15 +1274,11 @@
             "burcu.com.tr"
         ],
         "trigger_list": [
-            "Burcu-domates",
-            "burcu domates salçası",
-            "burcu-gida",
-            "burcu gıda",
             "burcu salça",
-            "burcu salca"
+            "burcu-salca"
         ],
-        "unvan_ve_ust_kurulus": "BURCU GIDA KONSERVECİLİK VE SALÇA SAN.A.Ş. , nan",
-        "boykot_sebebi": "Firma sahibi Cemil Bahadır, AKP üyesi olarak Balıkesir Burhaniye Belediye Meclisi'nde görev yapmış, ayrıca belediye başkan yardımcılığı görevini de üstlenmiştir. ",
+        "unvan_ve_ust_kurulus": "BURCU GIDA KONSERVECİLİK VE SALÇA SAN.A.Ş., null",
+        "boykot_sebebi": "Firma sahibi Cemil Bahadır, AKP üyesi olarak Balıkesir Burhaniye Belediye Meclisi'nde görev yapmış, ayrıca belediye başkan yardımcılığı görevini de üstlenmiştir.",
         "kaynak": "https://www.milliyet.com.tr/yerel-haberler/balikesir/burhaniyede-cemil-bahadir-baskan-yardimcisi-oldu-11602271"
     },
     "Yeni Şafak": {
@@ -1279,9 +1287,10 @@
             "yenisafak.com"
         ],
         "trigger_list": [
+            "yeni şafak",
+            "yenişafak",
             "yenisafak",
-            "yeni-safak",
-            "yeni şafak"
+            "yeni-safak"
         ],
         "unvan_ve_ust_kurulus": "Yeni Şafak Gazetecilik A.Ş., Albayrak Medya Grubu",
         "boykot_sebebi": "Sahibi Albayrak Medya Grubu AKP’nin yakın çevresinden. Gazetenin boykotlara yönelik tutumu ise böyle.",
@@ -1302,11 +1311,9 @@
     "GZT": {
         "firma": "GZT",
         "url_list": [
-            "gzt.com",
-            "gzttv.tr"
+            "gzt.com, gzttv.tr"
         ],
         "trigger_list": [
-            "gzt",
             "gzttv"
         ],
         "unvan_ve_ust_kurulus": "NET YAYINCILIK SAN. VE TİC.A.Ş., Albayrak Medya Grubu",
@@ -1316,14 +1323,10 @@
     "Derin Tarih Dergisi": {
         "firma": "Derin Tarih Dergisi",
         "url_list": [
-            "derintarih.com",
-            "ketebe.com"
+            "derintarih.com, ketebe.com"
         ],
-        "trigger_list": [
-            "derintarih",
-            "derin tarih"
-        ],
-        "unvan_ve_ust_kurulus": "Ketebe Kitap ve Dergi Yayıncılığı A.Ş. , Albayrak Medya Grubu",
+        "trigger_list": [],
+        "unvan_ve_ust_kurulus": "Ketebe Kitap ve Dergi Yayıncılığı A.Ş., Albayrak Medya Grubu",
         "boykot_sebebi": "Sahibi Albayrak Medya Grubu AKP’nin yakın çevresinden.",
         "kaynak": "https://www.diken.com.tr/chpnin-boykot-listesi-guncellendi/"
     },
@@ -1345,18 +1348,17 @@
             "borseker.com"
         ],
         "trigger_list": [
-            "borseker",
             "bor şeker",
+            "borseker",
             "bor-seker"
         ],
-        "unvan_ve_ust_kurulus": "Bor Şeker A.Ş., nan",
+        "unvan_ve_ust_kurulus": "Bor Şeker A.Ş., null",
         "boykot_sebebi": "Firma peşkeş çekilmişe benziyor.",
         "kaynak": "https://www.birgun.net/haber/bor-seker-fabrikasi-akp-li-disli-nin-akrabasina-devredildi-231756"
     },
     "Sleepy": {
         "firma": "Sleepy",
         "url_list": [
-            "market.sleepy.com.tr",
             "sleepy.com.tr"
         ],
         "trigger_list": [
@@ -1374,7 +1376,7 @@
         "trigger_list": [
             "mado"
         ],
-        "unvan_ve_ust_kurulus": "Yaşar Dondurma ve Gıda Maddeleri A.Ş., nan",
+        "unvan_ve_ust_kurulus": "Yaşar Dondurma ve Gıda Maddeleri A.Ş., null",
         "boykot_sebebi": "Kıdemli boykot firması.",
         "kaynak": "https://t24.com.tr/haber/gezi-direnisinde-en-hangi-marka-itibar-kaybetti-hangisi-kazandi,233518"
     },
@@ -1386,7 +1388,7 @@
         "trigger_list": [
             "ipekyol"
         ],
-        "unvan_ve_ust_kurulus": "İPEKYOL GİYİM SANAYİ PAZARLAMA VE TİCARET ANONİM ŞİRKETİ , Ipekyol Group",
+        "unvan_ve_ust_kurulus": "İPEKYOL GİYİM SANAYİ PAZARLAMA VE TİCARET ANONİM ŞİRKETİ, Ipekyol Group",
         "boykot_sebebi": "Firma sahibi Ayaydın ailesinden Derya Ayaydın AKP milletvekili, Aydın Ayaydın ise AKP Bodrum Belediye Başkan adayıydı.",
         "kaynak": "https://www.akparti.org.tr/tbmm/yonetim/milletvekillerimiz/%C4%B1stanbul?660896//Derya-AYAYDIN"
     },
@@ -1398,7 +1400,7 @@
         "trigger_list": [
             "machka"
         ],
-        "unvan_ve_ust_kurulus": "İPEKYOL GİYİM SANAYİ PAZARLAMA VE TİCARET ANONİM ŞİRKETİ , Ipekyol Group",
+        "unvan_ve_ust_kurulus": "İPEKYOL GİYİM SANAYİ PAZARLAMA VE TİCARET ANONİM ŞİRKETİ, Ipekyol Group",
         "boykot_sebebi": "Firma sahibi Ayaydın ailesinden Derya Ayaydın AKP milletvekili, Aydın Ayaydın ise AKP Bodrum Belediye Başkan adayıydı.",
         "kaynak": "https://www.akparti.org.tr/tbmm/yonetim/milletvekillerimiz/%C4%B1stanbul?660896//Derya-AYAYDIN"
     },
@@ -1408,7 +1410,7 @@
             "twist.com.tr"
         ],
         "trigger_list": [],
-        "unvan_ve_ust_kurulus": "İPEKYOL GİYİM SANAYİ PAZARLAMA VE TİCARET ANONİM ŞİRKETİ , Ipekyol Group",
+        "unvan_ve_ust_kurulus": "İPEKYOL GİYİM SANAYİ PAZARLAMA VE TİCARET ANONİM ŞİRKETİ, Ipekyol Group",
         "boykot_sebebi": "Firma sahibi Ayaydın ailesinden Derya Ayaydın AKP milletvekili, Aydın Ayaydın ise AKP Bodrum Belediye Başkan adayıydı.",
         "kaynak": "https://www.akparti.org.tr/tbmm/yonetim/milletvekillerimiz/%C4%B1stanbul?660896//Derya-AYAYDIN"
     },
@@ -1458,7 +1460,7 @@
         "trigger_list": [
             "ikea"
         ],
-        "unvan_ve_ust_kurulus": "MAPA MOBİLYA VE AKSESUAR PAZARLAMA ANONİM ŞİRKETİ , Maya Holding",
+        "unvan_ve_ust_kurulus": "MAPA MOBİLYA VE AKSESUAR PAZARLAMA ANONİM ŞİRKETİ, Maya Holding",
         "boykot_sebebi": "İkea’nın Türkiye’deki faaliyetlerini yürüten Mapa A.Ş.’nin bağlı olduğu Maya Holding’in sahibi ve CEO’su Ali Nuri Özsüer’in ablası, koyu bir destekçi.",
         "kaynak": "https://x.com/i/status/1350189599356817418"
     },
@@ -1471,8 +1473,8 @@
             "kiko milano",
             "kiko-milano"
         ],
-        "unvan_ve_ust_kurulus": "DOĞUŞ PERAKENDE SATIŞ GİYİM VE AKSESUAR TİCARET ANONİM ŞİRKETİ , Doğuş Holding",
-        "boykot_sebebi": "Firmanın Türkiye’deki faaliyetlerini Doğuş Grubu üstlenmekte. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde. ",
+        "unvan_ve_ust_kurulus": "DOĞUŞ PERAKENDE SATIŞ GİYİM VE AKSESUAR TİCARET ANONİM ŞİRKETİ, Doğuş Holding",
+        "boykot_sebebi": "Firmanın Türkiye’deki faaliyetlerini Doğuş Grubu üstlenmekte. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
         "kaynak": "https://www.eticaret.gov.tr/siteprofil/7832600304338521/kikomilanocomtr"
     },
     "Under Armour Türkiye": {
@@ -1484,8 +1486,8 @@
             "under armour",
             "under-armour"
         ],
-        "unvan_ve_ust_kurulus": "DOĞUŞ PERAKENDE SATIŞ GİYİM VE AKSESUAR TİCARET ANONİM ŞİRKETİ , Doğuş Holding",
-        "boykot_sebebi": "Firmanın Türkiye’deki faaliyetlerini Doğuş Grubu üstlenmekte. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde. ",
+        "unvan_ve_ust_kurulus": "DOĞUŞ PERAKENDE SATIŞ GİYİM VE AKSESUAR TİCARET ANONİM ŞİRKETİ, Doğuş Holding",
+        "boykot_sebebi": "Firmanın Türkiye’deki faaliyetlerini Doğuş Grubu üstlenmekte. Protesto ve boykotları yayın kuruluşlarında yayınlamıyorlar. Özel’in boykot listesinde.",
         "kaynak": "https://www.eticaret.gov.tr/siteprofil/dc3d85ad8ccc4e7ca769beaea365d2dc/wwwunderarmourcomtr"
     }
 }
