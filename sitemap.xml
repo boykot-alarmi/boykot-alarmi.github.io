@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Ana Sayfa -->
+  <url>
+    <loc>https://www.boykotalarmi.com/index.html</loc>
+    <lastmod>2025-04-26</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Boykot Listesi -->
+  <url>
+    <loc>https://www.boykotalarmi.com/liste.html</loc>
+    <lastmod>2025-04-26</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Boykot Takvimi -->
+  <url>
+    <loc>https://www.boykotalarmi.com/takvim.html</loc>
+    <lastmod>2025-04-26</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Neden boykot listesinde değil -->
+  <url>
+    <loc>https://www.boykotalarmi.com/listedisi.html</loc>
+    <lastmod>2025-04-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Sorun / Öneri Bildir -->
+  <url>
+    <loc>https://www.boykotalarmi.com/feedback.html</loc>
+    <lastmod>2025-04-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Hakkında -->
+  <url>
+    <loc>https://www.boykotalarmi.com/hakkinda.html</loc>
+    <lastmod>2025-04-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+</urlset>
